@@ -1,0 +1,23 @@
+{
+  "name": "arena-coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:getArtistLists": "jest -t 'getArtistLists'",
+    "test:getArtistCounts": "jest -t 'getArtistCounts'",
+    "test:getFinalResult": "jest -t 'getFinalResult'",
+    "test:formatFinalResult": "jest -t 'formatFinalResult'"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}

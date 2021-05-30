@@ -1,0 +1,5616 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getArtistCounts 
+    should convert 2D array containing artist lists into a map of artist 
+    names to the index of the list they each appear in.
+     1`] = `
+Object {
+  "\\"Weird Al\\" Yankovic": Array [
+    17,
+  ],
+  "+44": Array [
+    28,
+  ],
+  ".38 Special": Array [
+    3,
+  ],
+  "10 Years": Array [
+    3,
+  ],
+  "1349": Array [
+    24,
+  ],
+  "13th Floor Elevators": Array [
+    19,
+  ],
+  "25 ta Life": Array [
+    15,
+  ],
+  "3 Doors Down": Array [
+    28,
+  ],
+  "30 Seconds to Mars": Array [
+    3,
+    28,
+    31,
+    32,
+  ],
+  "3OH!3": Array [
+    1,
+    10,
+  ],
+  "65daysofstatic": Array [
+    2,
+    7,
+  ],
+  "9ème Panzer Symphonie": Array [
+    15,
+  ],
+  "A Brighter Day": Array [
+    0,
+  ],
+  "A Fine Frenzy": Array [
+    8,
+  ],
+  "A Night In Tunisia": Array [
+    0,
+  ],
+  "A Perfect Circle": Array [
+    16,
+    22,
+  ],
+  "A Rocket To The Moon": Array [
+    1,
+  ],
+  "A Skylit Drive": Array [
+    14,
+  ],
+  "AC/DC": Array [
+    8,
+    10,
+    11,
+    17,
+    31,
+  ],
+  "AFI": Array [
+    18,
+    26,
+    31,
+  ],
+  "Abigail's Ghost": Array [
+    30,
+  ],
+  "Abigor": Array [
+    15,
+  ],
+  "Absurd": Array [
+    24,
+  ],
+  "Across The Universe Soundtrack": Array [
+    1,
+  ],
+  "Ad Hominem": Array [
+    15,
+  ],
+  "Adam Lambert": Array [
+    21,
+  ],
+  "Adam's Apple": Array [
+    0,
+  ],
+  "Aegaeon": Array [
+    12,
+  ],
+  "Aerosmith": Array [
+    13,
+    17,
+  ],
+  "Afrodisia": Array [
+    0,
+  ],
+  "After Forever": Array [
+    21,
+  ],
+  "Against Me!": Array [
+    14,
+  ],
+  "Agalloch": Array [
+    24,
+    25,
+    30,
+  ],
+  "Agathodaimon": Array [
+    25,
+  ],
+  "Agnostic Front": Array [
+    9,
+  ],
+  "Air": Array [
+    19,
+  ],
+  "Ajattara": Array [
+    24,
+  ],
+  "Akercocke": Array [
+    30,
+  ],
+  "Akira Yamaoka": Array [
+    9,
+  ],
+  "Akon": Array [
+    4,
+    13,
+  ],
+  "Alanis Morissette": Array [
+    21,
+  ],
+  "Alban Berg": Array [
+    29,
+  ],
+  "Alesana": Array [
+    28,
+  ],
+  "Alexisonfire": Array [
+    0,
+  ],
+  "Alfred Schnittke": Array [
+    29,
+  ],
+  "Alice Cooper": Array [
+    15,
+    31,
+  ],
+  "Alice in Chains": Array [
+    8,
+    22,
+  ],
+  "Alien Ant Farm": Array [
+    15,
+  ],
+  "Alissid Jazz": Array [
+    19,
+  ],
+  "Alkaline Trio": Array [
+    14,
+  ],
+  "All Shall Perish": Array [
+    15,
+  ],
+  "All That Remains": Array [
+    28,
+  ],
+  "All Time Low": Array [
+    1,
+    10,
+  ],
+  "Aloha From Hell": Array [
+    10,
+  ],
+  "Alphataurus": Array [
+    19,
+  ],
+  "Alphaville": Array [
+    27,
+  ],
+  "Alpinist": Array [
+    9,
+  ],
+  "America": Array [
+    27,
+  ],
+  "American Me": Array [
+    12,
+  ],
+  "Amon Amarth": Array [
+    6,
+  ],
+  "Amon Tobin": Array [
+    7,
+  ],
+  "Amorphis": Array [
+    6,
+    25,
+  ],
+  "Amy Macdonald": Array [
+    13,
+  ],
+  "Amy Winehouse": Array [
+    4,
+  ],
+  "Anathema": Array [
+    6,
+    21,
+    25,
+  ],
+  "Andre 3000": Array [
+    26,
+  ],
+  "Andy McKee": Array [
+    3,
+  ],
+  "Anekdoten": Array [
+    30,
+  ],
+  "Animal Collective": Array [
+    2,
+    14,
+  ],
+  "Anna Puu": Array [
+    13,
+  ],
+  "Anssi Kela": Array [
+    13,
+  ],
+  "Anthony Green": Array [
+    26,
+  ],
+  "Anton Webern": Array [
+    29,
+  ],
+  "Apocalyptica": Array [
+    28,
+  ],
+  "Apostle of Hustle": Array [
+    19,
+  ],
+  "Aquasky": Array [
+    23,
+  ],
+  "Arcade Fire": Array [
+    11,
+    31,
+  ],
+  "Architects": Array [
+    12,
+  ],
+  "Arctic Monkeys": Array [
+    8,
+    13,
+    18,
+    20,
+    28,
+    31,
+    32,
+  ],
+  "Ariel Pink's Haunted Graffiti": Array [
+    2,
+  ],
+  "Arktau Eos": Array [
+    24,
+  ],
+  "Armagedda": Array [
+    24,
+  ],
+  "Armin van Buuren": Array [
+    21,
+  ],
+  "Arnold Schönberg": Array [
+    29,
+  ],
+  "Arsis": Array [
+    6,
+  ],
+  "Arsonists Get All The Girls": Array [
+    12,
+  ],
+  "Art Blakey": Array [
+    0,
+  ],
+  "Art Taylor": Array [
+    0,
+  ],
+  "Ashlee Simpson": Array [
+    21,
+  ],
+  "Asobi Seksu": Array [
+    13,
+  ],
+  "At the Drive-In": Array [
+    16,
+    17,
+  ],
+  "At the Gates": Array [
+    6,
+  ],
+  "Aural Vampire": Array [
+    21,
+  ],
+  "Automatic Loveletter": Array [
+    10,
+  ],
+  "Avantasia": Array [
+    25,
+  ],
+  "Avi Buffalo": Array [
+    2,
+  ],
+  "Avril Lavigne": Array [
+    1,
+    13,
+    21,
+    32,
+  ],
+  "Awaken Demons": Array [
+    12,
+  ],
+  "Axel Rudi Pell": Array [
+    25,
+  ],
+  "B-Complex": Array [
+    23,
+  ],
+  "B.O.B. ft. Hayley Williams": Array [
+    10,
+  ],
+  "BIG BANG": Array [
+    21,
+  ],
+  "Baby Bash": Array [
+    3,
+  ],
+  "Babyshambles": Array [
+    8,
+    32,
+  ],
+  "Bachelors Of Science": Array [
+    23,
+  ],
+  "Backbreaker": Array [
+    12,
+  ],
+  "Bad Religion": Array [
+    14,
+  ],
+  "Balmorhea": Array [
+    2,
+  ],
+  "Bananarama": Array [
+    27,
+  ],
+  "Band of Horses": Array [
+    14,
+    29,
+  ],
+  "Bane": Array [
+    9,
+  ],
+  "Barenaked Ladies": Array [
+    20,
+  ],
+  "Baroness": Array [
+    16,
+  ],
+  "Baschi": Array [
+    4,
+  ],
+  "Bat for Lashes": Array [
+    20,
+  ],
+  "Bathory": Array [
+    24,
+  ],
+  "Beach House": Array [
+    2,
+  ],
+  "Bear McCreary": Array [
+    17,
+  ],
+  "Beastcraft": Array [
+    24,
+  ],
+  "Beastie Boys": Array [
+    20,
+  ],
+  "Bebo & Cigala": Array [
+    0,
+  ],
+  "Beck": Array [
+    17,
+    20,
+    29,
+  ],
+  "Bee Gees": Array [
+    8,
+  ],
+  "Beheading Of A King": Array [
+    12,
+  ],
+  "Behemoth": Array [
+    6,
+  ],
+  "Behexen": Array [
+    24,
+  ],
+  "Beirut": Array [
+    2,
+  ],
+  "Belay My Last": Array [
+    12,
+  ],
+  "Belle and Sebastian": Array [
+    2,
+  ],
+  "Belphegor": Array [
+    24,
+  ],
+  "Ben Frost": Array [
+    30,
+  ],
+  "BenSem": Array [
+    4,
+  ],
+  "Benighted": Array [
+    15,
+  ],
+  "Beseech": Array [
+    25,
+  ],
+  "Beth Gibbons & Rustin Man": Array [
+    2,
+  ],
+  "Betrayal": Array [
+    12,
+  ],
+  "Big & Rich": Array [
+    17,
+  ],
+  "Big Bang 빅뱅": Array [
+    21,
+  ],
+  "Big Brother & The Holding Company": Array [
+    7,
+  ],
+  "Big Country": Array [
+    27,
+  ],
+  "Bill Engvall": Array [
+    17,
+  ],
+  "Bill Evans Trio": Array [
+    7,
+  ],
+  "Billy Idol": Array [
+    27,
+  ],
+  "Billy Talent": Array [
+    10,
+  ],
+  "Billy's Band": Array [
+    7,
+  ],
+  "Björk": Array [
+    21,
+    22,
+    26,
+  ],
+  "Black Byrd": Array [
+    0,
+  ],
+  "Black Drawing Chalks": Array [
+    27,
+  ],
+  "Black Label Society": Array [
+    25,
+  ],
+  "Black Sabbath": Array [
+    6,
+    8,
+    22,
+    27,
+    30,
+  ],
+  "Black Tide": Array [
+    31,
+  ],
+  "Blackfield": Array [
+    6,
+    30,
+  ],
+  "Bleed the Same": Array [
+    12,
+  ],
+  "Blind Guardian": Array [
+    6,
+    24,
+  ],
+  "Bloc Party": Array [
+    13,
+    14,
+    32,
+  ],
+  "Bloodbath": Array [
+    30,
+  ],
+  "Blue Man Group": Array [
+    17,
+  ],
+  "Blue Stahli": Array [
+    23,
+  ],
+  "Blur": Array [
+    8,
+    19,
+    20,
+    29,
+  ],
+  "BoA": Array [
+    21,
+  ],
+  "Bob Dylan": Array [
+    17,
+    20,
+  ],
+  "Bob Marley": Array [
+    14,
+  ],
+  "Bob Marley & The Wailers": Array [
+    7,
+  ],
+  "Bob Seger": Array [
+    3,
+    17,
+  ],
+  "Bon Jovi": Array [
+    23,
+    32,
+  ],
+  "Bonobo": Array [
+    7,
+    19,
+  ],
+  "Born of Osiris": Array [
+    12,
+  ],
+  "Boston": Array [
+    3,
+  ],
+  "Boys Like Girls": Array [
+    1,
+    13,
+  ],
+  "Boys Night Out": Array [
+    26,
+  ],
+  "Brand New": Array [
+    14,
+    18,
+    26,
+  ],
+  "Brand X Music": Array [
+    28,
+  ],
+  "Breaking Benjamin": Array [
+    3,
+    28,
+  ],
+  "Breathe Carolina": Array [
+    1,
+  ],
+  "Breitbild": Array [
+    4,
+  ],
+  "Bring Me The Horizon": Array [
+    1,
+    9,
+    28,
+  ],
+  "Britney Spears": Array [
+    21,
+  ],
+  "Broken Bells": Array [
+    2,
+  ],
+  "Brokencyde": Array [
+    1,
+  ],
+  "Bruce Springsteen & The E Street Band": Array [
+    23,
+  ],
+  "Buckethead": Array [
+    25,
+  ],
+  "Built to Spill": Array [
+    29,
+  ],
+  "Bullet for My Valentine": Array [
+    8,
+    28,
+  ],
+  "Bunker 84": Array [
+    15,
+  ],
+  "Burial": Array [
+    2,
+  ],
+  "Burzum": Array [
+    24,
+  ],
+  "Béla Bartók": Array [
+    29,
+  ],
+  "C.Aarmé": Array [
+    26,
+  ],
+  "CAKE": Array [
+    29,
+  ],
+  "Calvin Harris": Array [
+    23,
+  ],
+  "Camel": Array [
+    30,
+  ],
+  "Camo & Krooked": Array [
+    23,
+  ],
+  "Candlebox": Array [
+    3,
+  ],
+  "Candlemass": Array [
+    6,
+  ],
+  "Cannibal Corpse": Array [
+    15,
+  ],
+  "Cansei de Ser Sexy": Array [
+    13,
+  ],
+  "Cantaloop (Flip Fantasia)": Array [
+    0,
+  ],
+  "Cantaloupe Island": Array [
+    0,
+  ],
+  "Caravan": Array [
+    0,
+  ],
+  "Caribou": Array [
+    2,
+  ],
+  "Carlo Gesualdo": Array [
+    29,
+  ],
+  "Carpathian": Array [
+    9,
+  ],
+  "Carpathian Forest": Array [
+    24,
+  ],
+  "Carter Burwell": Array [
+    28,
+  ],
+  "Catamenia": Array [
+    24,
+    25,
+  ],
+  "Catapult Turtle Defense Mode": Array [
+    12,
+  ],
+  "Celldweller": Array [
+    23,
+  ],
+  "Celtic Frost": Array [
+    24,
+  ],
+  "Ceremonial Castings": Array [
+    6,
+  ],
+  "Cetra": Array [
+    28,
+  ],
+  "Cetu Javu": Array [
+    27,
+  ],
+  "Charles Bronson": Array [
+    19,
+  ],
+  "Charlie Winston": Array [
+    4,
+  ],
+  "Chase & Status": Array [
+    23,
+  ],
+  "Chase Coy": Array [
+    1,
+  ],
+  "Chevelle": Array [
+    18,
+  ],
+  "Chick Corea & Hiromi": Array [
+    0,
+  ],
+  "Chico Buarque": Array [
+    22,
+  ],
+  "Children of Bodom": Array [
+    6,
+  ],
+  "Chingy": Array [
+    3,
+  ],
+  "Chiodos": Array [
+    26,
+  ],
+  "Chisu": Array [
+    13,
+  ],
+  "Christina Aguilera": Array [
+    13,
+    21,
+  ],
+  "Chrome": Array [
+    2,
+  ],
+  "ChthoniC": Array [
+    6,
+  ],
+  "Chuck Berry": Array [
+    7,
+  ],
+  "Circa Survive": Array [
+    26,
+  ],
+  "City and Colour": Array [
+    0,
+  ],
+  "Clap Your Hands Say Yeah": Array [
+    31,
+  ],
+  "Clark": Array [
+    2,
+  ],
+  "Claude Debussy": Array [
+    0,
+  ],
+  "Claudio Monteverdi": Array [
+    29,
+  ],
+  "Clint Mansell": Array [
+    11,
+  ],
+  "Closer to Home": Array [
+    0,
+  ],
+  "Clutch": Array [
+    7,
+  ],
+  "Cobra Starship": Array [
+    1,
+  ],
+  "CocoRosie": Array [
+    13,
+  ],
+  "Coheed and Cambria": Array [
+    14,
+  ],
+  "Cold War Kids": Array [
+    29,
+  ],
+  "Coldplay": Array [
+    8,
+    10,
+    13,
+    17,
+    20,
+    25,
+  ],
+  "Collective Soul": Array [
+    3,
+  ],
+  "Colonel Claypool's Bucket of Bernie Brains": Array [
+    19,
+  ],
+  "Comadre": Array [
+    9,
+  ],
+  "Comeback Kid": Array [
+    9,
+  ],
+  "Congalegra": Array [
+    0,
+  ],
+  "Connor Shaw": Array [
+    33,
+  ],
+  "Converge": Array [
+    9,
+    26,
+  ],
+  "Corpus Christii": Array [
+    24,
+  ],
+  "Corrosion of Conformity": Array [
+    18,
+  ],
+  "Cradle of Filth": Array [
+    15,
+    25,
+  ],
+  "Craig D'Andrea": Array [
+    3,
+  ],
+  "Cranes": Array [
+    19,
+  ],
+  "Crazy Town": Array [
+    23,
+  ],
+  "Cream": Array [
+    7,
+  ],
+  "Crossfade": Array [
+    3,
+  ],
+  "Crystal Castles": Array [
+    2,
+    13,
+  ],
+  "Cujo": Array [
+    19,
+  ],
+  "Cult of Luna": Array [
+    30,
+  ],
+  "Cursive": Array [
+    26,
+  ],
+  "Cyndi Lauper": Array [
+    21,
+  ],
+  "Cypress Hill": Array [
+    15,
+  ],
+  "Cæcilie Norby": Array [
+    0,
+  ],
+  "DJ Krush": Array [
+    19,
+  ],
+  "DJ Krush & Toshinori Kondo": Array [
+    19,
+  ],
+  "Daddy DJ": Array [
+    23,
+  ],
+  "Daft Punk": Array [
+    11,
+    20,
+    23,
+  ],
+  "Dakota Fanning and Kristen Stewart": Array [
+    28,
+  ],
+  "Dance Gavin Dance": Array [
+    18,
+  ],
+  "Dane Cook": Array [
+    18,
+  ],
+  "Danny Elfman": Array [
+    28,
+  ],
+  "Danzig": Array [
+    27,
+  ],
+  "Dark Funeral": Array [
+    24,
+  ],
+  "Dark Tranquillity": Array [
+    6,
+    25,
+  ],
+  "Dark the Suns": Array [
+    25,
+  ],
+  "Darkthrone": Array [
+    24,
+  ],
+  "Dash Berlin": Array [
+    23,
+  ],
+  "Dashboard Confessional": Array [
+    3,
+  ],
+  "Daughtry": Array [
+    4,
+  ],
+  "Dave Matthews Band": Array [
+    17,
+    22,
+  ],
+  "David Bowie": Array [
+    11,
+    22,
+    31,
+  ],
+  "David Vorhaus": Array [
+    19,
+  ],
+  "Dead Can Dance": Array [
+    6,
+  ],
+  "Dead In Existence": Array [
+    12,
+  ],
+  "Dead Swans": Array [
+    9,
+  ],
+  "Dead by Sunrise": Array [
+    28,
+    32,
+  ],
+  "Deadmau5": Array [
+    23,
+  ],
+  "Dear Juliet": Array [
+    1,
+  ],
+  "Death": Array [
+    6,
+    15,
+    16,
+    22,
+  ],
+  "Death Before Dishonor": Array [
+    9,
+  ],
+  "Death Cab for Cutie": Array [
+    13,
+    14,
+    20,
+    28,
+    29,
+    32,
+  ],
+  "Death Letter": Array [
+    0,
+  ],
+  "Deathspell Omega": Array [
+    24,
+  ],
+  "Deep Purple": Array [
+    27,
+  ],
+  "Deerhunter": Array [
+    2,
+  ],
+  "Def Leppard": Array [
+    27,
+  ],
+  "Defeater": Array [
+    9,
+  ],
+  "Deftones": Array [
+    15,
+    16,
+    26,
+    28,
+  ],
+  "Deichkind": Array [
+    32,
+  ],
+  "Deicide": Array [
+    15,
+  ],
+  "Delain": Array [
+    21,
+  ],
+  "Demigod": Array [
+    6,
+  ],
+  "Depeche Mode": Array [
+    8,
+  ],
+  "Desireless": Array [
+    27,
+  ],
+  "Destruction of a King": Array [
+    12,
+  ],
+  "Devin Townsend": Array [
+    30,
+  ],
+  "Devin Townsend Project": Array [
+    30,
+  ],
+  "Devo": Array [
+    27,
+  ],
+  "Devon Werkheiser": Array [
+    1,
+  ],
+  "Die Toten Hosen": Array [
+    4,
+  ],
+  "Dinosaur Jr.": Array [
+    29,
+  ],
+  "Dir en grey": Array [
+    9,
+  ],
+  "Disco Ensemble": Array [
+    32,
+  ],
+  "Disfigured Elegance": Array [
+    12,
+  ],
+  "Dissection": Array [
+    6,
+    24,
+  ],
+  "Dissipate": Array [
+    12,
+  ],
+  "Disturbed": Array [
+    18,
+  ],
+  "Dj Lobsterdust": Array [
+    27,
+  ],
+  "Dokken": Array [
+    27,
+  ],
+  "Don Henley": Array [
+    3,
+  ],
+  "Don Ross": Array [
+    3,
+  ],
+  "Dope": Array [
+    18,
+  ],
+  "Down": Array [
+    16,
+  ],
+  "Doyle Dykes": Array [
+    3,
+  ],
+  "Dream Theater": Array [
+    22,
+    30,
+  ],
+  "Drowning Pool": Array [
+    10,
+  ],
+  "Drudkh": Array [
+    30,
+  ],
+  "Duffy": Array [
+    13,
+  ],
+  "Duke Pearson": Array [
+    0,
+  ],
+  "Duran Duran": Array [
+    27,
+  ],
+  "E.S. Posthumus": Array [
+    28,
+  ],
+  "Eagles": Array [
+    3,
+  ],
+  "Eagles of Death Metal": Array [
+    7,
+    16,
+  ],
+  "Earth From Above": Array [
+    12,
+  ],
+  "Eddie Money": Array [
+    3,
+  ],
+  "Eddie Vedder": Array [
+    22,
+  ],
+  "Edgard Varèse": Array [
+    29,
+  ],
+  "Edge of Sanity": Array [
+    6,
+    30,
+  ],
+  "Egg": Array [
+    19,
+  ],
+  "Egypt Central": Array [
+    18,
+  ],
+  "El Cumbanchero": Array [
+    0,
+  ],
+  "El Grupo Nuevo de Omar Rodriguez Lopez": Array [
+    16,
+  ],
+  "Electric Light Orchestra": Array [
+    17,
+  ],
+  "Elenora": Array [
+    12,
+  ],
+  "Ellie Goulding": Array [
+    10,
+  ],
+  "Elliott Smith": Array [
+    17,
+    20,
+  ],
+  "Elton John": Array [
+    11,
+    22,
+  ],
+  "Eluveitie": Array [
+    21,
+    25,
+  ],
+  "Elvis Costello": Array [
+    4,
+  ],
+  "Elvis Presley": Array [
+    8,
+    32,
+  ],
+  "Elysia": Array [
+    12,
+  ],
+  "Eminem": Array [
+    10,
+    15,
+    23,
+    26,
+  ],
+  "Emmure": Array [
+    9,
+  ],
+  "Emperor": Array [
+    6,
+    24,
+  ],
+  "Empyrium": Array [
+    24,
+  ],
+  "Ensiferum": Array [
+    6,
+  ],
+  "Enslaved": Array [
+    24,
+  ],
+  "Enter Shikari": Array [
+    28,
+    32,
+  ],
+  "Envy": Array [
+    9,
+  ],
+  "Epica": Array [
+    21,
+  ],
+  "Escapado": Array [
+    9,
+  ],
+  "Escape the Fate": Array [
+    10,
+  ],
+  "Eternal Tears of Sorrow": Array [
+    6,
+    25,
+  ],
+  "Evanescence": Array [
+    18,
+    21,
+    28,
+  ],
+  "Evergrey": Array [
+    25,
+  ],
+  "Evol Intent": Array [
+    23,
+  ],
+  "Exodus": Array [
+    16,
+  ],
+  "Explosions in the Sky": Array [
+    19,
+  ],
+  "Extol": Array [
+    15,
+  ],
+  "Extreme": Array [
+    27,
+  ],
+  "Eyesore (Various)": Array [
+    19,
+  ],
+  "Faith No More": Array [
+    22,
+    27,
+  ],
+  "Fake Number": Array [
+    1,
+  ],
+  "Fall Out Boy": Array [
+    4,
+    10,
+    14,
+    18,
+    31,
+  ],
+  "Fang Island": Array [
+    2,
+  ],
+  "Fantômas": Array [
+    22,
+  ],
+  "Far West": Array [
+    0,
+  ],
+  "Favours For Sailors": Array [
+    5,
+  ],
+  "Fear Before the March of Flames": Array [
+    26,
+  ],
+  "Fear Factory": Array [
+    15,
+  ],
+  "Fey": Array [
+    21,
+  ],
+  "First Blood": Array [
+    9,
+  ],
+  "Fit For An Autopsy": Array [
+    12,
+  ],
+  "Fleet Foxes": Array [
+    2,
+    17,
+  ],
+  "Flogging Molly": Array [
+    17,
+  ],
+  "Florence + the Machine": Array [
+    5,
+    10,
+  ],
+  "Flowing Tears": Array [
+    25,
+  ],
+  "Flying Lotus": Array [
+    2,
+  ],
+  "Flyleaf": Array [
+    10,
+    18,
+  ],
+  "Foals": Array [
+    14,
+  ],
+  "Fonzie": Array [
+    28,
+  ],
+  "Foo Fighters": Array [
+    4,
+    8,
+    15,
+    22,
+  ],
+  "Forgotten Woods": Array [
+    6,
+  ],
+  "Framing Hanley": Array [
+    10,
+  ],
+  "Frank Caliendo": Array [
+    17,
+  ],
+  "Frankie Goes to Hollywood": Array [
+    27,
+  ],
+  "Franz Ferdinand": Array [
+    7,
+    20,
+    29,
+    31,
+  ],
+  "Franz Joseph Haydn": Array [
+    29,
+  ],
+  "Freshman 15": Array [
+    12,
+  ],
+  "Frightened Rabbit": Array [
+    2,
+  ],
+  "From First to Last": Array [
+    26,
+    31,
+  ],
+  "Fuck Buttons": Array [
+    2,
+  ],
+  "Fuel": Array [
+    3,
+  ],
+  "Funeral For A Friend": Array [
+    31,
+  ],
+  "Funeral Mist": Array [
+    24,
+  ],
+  "Funk Como Le Gusta": Array [
+    22,
+  ],
+  "Funki Porcini": Array [
+    19,
+  ],
+  "Future Prophecies": Array [
+    23,
+  ],
+  "Gallows": Array [
+    9,
+  ],
+  "Garbage": Array [
+    26,
+  ],
+  "Garth Brooks": Array [
+    17,
+  ],
+  "Genesis": Array [
+    22,
+    30,
+  ],
+  "George Carlin": Array [
+    17,
+  ],
+  "George Harrison": Array [
+    20,
+  ],
+  "Ghostlimb": Array [
+    9,
+  ],
+  "Giacinto Scelsi": Array [
+    29,
+  ],
+  "Gimma": Array [
+    4,
+  ],
+  "Girl Named Vegas": Array [
+    12,
+  ],
+  "Girls": Array [
+    2,
+  ],
+  "Glee Cast": Array [
+    1,
+    28,
+  ],
+  "Gnarkill": Array [
+    26,
+  ],
+  "God Dethroned": Array [
+    6,
+  ],
+  "God Is an Astronaut": Array [
+    2,
+    7,
+  ],
+  "Godsmack": Array [
+    18,
+  ],
+  "Gojira": Array [
+    16,
+  ],
+  "Gold Kids": Array [
+    9,
+  ],
+  "Gomez": Array [
+    17,
+  ],
+  "Gonjasufi": Array [
+    7,
+  ],
+  "Good Charlotte": Array [
+    10,
+  ],
+  "Gorgoroth": Array [
+    24,
+  ],
+  "Gorillaz": Array [
+    14,
+    20,
+    29,
+  ],
+  "Gotthard": Array [
+    25,
+  ],
+  "Graf Orlock": Array [
+    9,
+  ],
+  "Grateful Dead": Array [
+    17,
+  ],
+  "Grave Digger": Array [
+    6,
+  ],
+  "Graveworm": Array [
+    25,
+  ],
+  "Great Metal Covers Vol03": Array [
+    25,
+  ],
+  "Greeley Estates": Array [
+    26,
+  ],
+  "Green Day": Array [
+    8,
+    17,
+  ],
+  "Greg Osby": Array [
+    0,
+  ],
+  "Guapo": Array [
+    30,
+  ],
+  "Guillaume Dufay": Array [
+    29,
+  ],
+  "Guillaume de Machaut": Array [
+    29,
+  ],
+  "Guns N' Roses": Array [
+    11,
+    16,
+  ],
+  "Gwen Stacy": Array [
+    12,
+  ],
+  "Gwen Stefani": Array [
+    21,
+  ],
+  "Gym Class Heroes": Array [
+    26,
+  ],
+  "György Ligeti": Array [
+    29,
+  ],
+  "HEVO84": Array [
+    1,
+  ],
+  "HIM": Array [
+    25,
+  ],
+  "Hadouken!": Array [
+    23,
+  ],
+  "Hanson": Array [
+    32,
+  ],
+  "Harold Faltermeyer": Array [
+    27,
+  ],
+  "Have Heart": Array [
+    9,
+  ],
+  "Hawk Nelson": Array [
+    14,
+  ],
+  "Hawthorne Heights": Array [
+    3,
+    31,
+  ],
+  "Heavy Heavy Low Low": Array [
+    26,
+  ],
+  "Helia": Array [
+    12,
+  ],
+  "Hella": Array [
+    16,
+  ],
+  "Hellogoodbye": Array [
+    1,
+  ],
+  "Henry Purcell": Array [
+    29,
+  ],
+  "Her Name is Calla": Array [
+    30,
+  ],
+  "Her Space Holiday": Array [
+    14,
+  ],
+  "Hetroertzen": Array [
+    24,
+  ],
+  "Hey Monday": Array [
+    1,
+    10,
+  ],
+  "Hi-Heel Sneakers": Array [
+    0,
+  ],
+  "High School Musical 3": Array [
+    1,
+  ],
+  "High and Driving": Array [
+    26,
+  ],
+  "High on Fire": Array [
+    16,
+  ],
+  "Hinder": Array [
+    3,
+  ],
+  "Holding on to Sound": Array [
+    18,
+  ],
+  "Hoobastank": Array [
+    4,
+  ],
+  "Hot Snakes": Array [
+    26,
+  ],
+  "Howard Shore": Array [
+    24,
+  ],
+  "Hypocrisy": Array [
+    24,
+  ],
+  "I Call Fives": Array [
+    12,
+  ],
+  "Iannis Xenakis": Array [
+    29,
+  ],
+  "Ikuinen Kaamos": Array [
+    30,
+  ],
+  "Immortal": Array [
+    24,
+  ],
+  "Imogen Heap": Array [
+    13,
+  ],
+  "Impaled Nazarene": Array [
+    24,
+  ],
+  "In Flames": Array [
+    25,
+  ],
+  "Incubus": Array [
+    3,
+    4,
+    8,
+    15,
+    18,
+    22,
+    26,
+    28,
+    32,
+  ],
+  "Indio Gitano": Array [
+    0,
+  ],
+  "Indochine": Array [
+    0,
+  ],
+  "Infected Mushroom": Array [
+    18,
+    23,
+  ],
+  "Insomnium": Array [
+    6,
+    25,
+  ],
+  "Interpol": Array [
+    7,
+    8,
+    20,
+  ],
+  "Iron Maiden": Array [
+    6,
+    15,
+    23,
+  ],
+  "Isis": Array [
+    30,
+  ],
+  "Jackson Browne": Array [
+    3,
+  ],
+  "Jaguar Love": Array [
+    26,
+  ],
+  "James Newton": Array [
+    0,
+  ],
+  "Jamie Cullum": Array [
+    4,
+  ],
+  "Jamie T": Array [
+    14,
+  ],
+  "Jamiroquai": Array [
+    4,
+  ],
+  "Janet Jackson": Array [
+    21,
+  ],
+  "Japandroids": Array [
+    7,
+  ],
+  "Jason Mraz": Array [
+    0,
+    1,
+  ],
+  "Jay Sean": Array [
+    4,
+  ],
+  "Jean Elan": Array [
+    23,
+  ],
+  "Jean-Baptiste Lully": Array [
+    29,
+  ],
+  "Jeff Buckley": Array [
+    22,
+  ],
+  "Jeff Foxworthy": Array [
+    17,
+  ],
+  "Jefferson Airplane": Array [
+    7,
+  ],
+  "Jenni Vartiainen": Array [
+    13,
+  ],
+  "Jesus Jones": Array [
+    27,
+  ],
+  "Jethro Tull": Array [
+    19,
+  ],
+  "Jim Croce": Array [
+    17,
+  ],
+  "Jimi Hendrix": Array [
+    7,
+    14,
+    20,
+    27,
+  ],
+  "Jimmy Eat World": Array [
+    3,
+    8,
+    10,
+    32,
+  ],
+  "Joan Jett and the Blackhearts": Array [
+    28,
+  ],
+  "Job for a Cowboy": Array [
+    15,
+  ],
+  "Joe Pass": Array [
+    7,
+  ],
+  "Johann Sebastian Bach": Array [
+    3,
+    29,
+  ],
+  "John Adams": Array [
+    29,
+  ],
+  "John Cage": Array [
+    29,
+  ],
+  "John Denver": Array [
+    17,
+  ],
+  "John Frusciante": Array [
+    16,
+  ],
+  "John Lee Hooker": Array [
+    7,
+  ],
+  "John Lennon": Array [
+    17,
+    20,
+  ],
+  "John Mayer": Array [
+    4,
+  ],
+  "John Powell": Array [
+    17,
+  ],
+  "John Williams": Array [
+    1,
+  ],
+  "Johnny Cash": Array [
+    17,
+  ],
+  "Johnossi": Array [
+    32,
+  ],
+  "Joy Division": Array [
+    2,
+    7,
+  ],
+  "Julian Casablancas": Array [
+    20,
+  ],
+  "Justice": Array [
+    20,
+    31,
+  ],
+  "Justin Timberlake": Array [
+    4,
+  ],
+  "KISS": Array [
+    14,
+    31,
+  ],
+  "Kaiser Chiefs": Array [
+    20,
+    31,
+  ],
+  "Kaishakunin": Array [
+    9,
+  ],
+  "Kalmah": Array [
+    6,
+  ],
+  "Kanye West": Array [
+    26,
+  ],
+  "Karen O and the Kids": Array [
+    31,
+  ],
+  "Karlheinz Stockhausen": Array [
+    29,
+  ],
+  "Kasabian": Array [
+    10,
+    20,
+  ],
+  "Katatonia": Array [
+    6,
+    25,
+    30,
+  ],
+  "Kate Bush": Array [
+    22,
+  ],
+  "Kate Nash": Array [
+    1,
+  ],
+  "Katy Perry": Array [
+    4,
+    13,
+  ],
+  "Kayo Dot": Array [
+    30,
+  ],
+  "Ke$ha": Array [
+    1,
+    10,
+  ],
+  "Keane": Array [
+    8,
+    20,
+  ],
+  "Keep of Kalessin": Array [
+    6,
+  ],
+  "Kelly Clarkson": Array [
+    21,
+    28,
+  ],
+  "Kevin Rudolf": Array [
+    23,
+  ],
+  "Kid Cudi": Array [
+    14,
+  ],
+  "Kill Hannah": Array [
+    14,
+    31,
+  ],
+  "Killing the Dream": Array [
+    9,
+  ],
+  "Killswitch Engage": Array [
+    25,
+  ],
+  "King Crimson": Array [
+    30,
+  ],
+  "King Diamond": Array [
+    6,
+    15,
+  ],
+  "Kings of Convenience": Array [
+    13,
+  ],
+  "Kings of Leon": Array [
+    8,
+    10,
+    13,
+    31,
+    32,
+  ],
+  "Kingston Wall": Array [
+    6,
+  ],
+  "Kittie": Array [
+    18,
+  ],
+  "Klaus Badelt": Array [
+    4,
+  ],
+  "Klinik": Array [
+    19,
+  ],
+  "Knock em Dead": Array [
+    12,
+  ],
+  "Koop": Array [
+    19,
+  ],
+  "Korn": Array [
+    15,
+    18,
+    31,
+  ],
+  "Korpiklaani": Array [
+    23,
+  ],
+  "Krzysztof Komeda": Array [
+    19,
+  ],
+  "Kyle Evans": Array [
+    10,
+  ],
+  "Kylie Minogue": Array [
+    21,
+  ],
+  "Kyuss": Array [
+    16,
+  ],
+  "LCD Soundsystem": Array [
+    20,
+  ],
+  "La Dispute": Array [
+    9,
+  ],
+  "Lacuna Coil": Array [
+    25,
+  ],
+  "Lady Antebellum": Array [
+    1,
+  ],
+  "Lady Gaga": Array [
+    0,
+    1,
+    4,
+    13,
+    21,
+    23,
+  ],
+  "Ladytron": Array [
+    21,
+  ],
+  "Lake of Tears": Array [
+    25,
+  ],
+  "Led Zeppelin": Array [
+    7,
+    8,
+    11,
+    16,
+    17,
+    18,
+    20,
+    22,
+    27,
+  ],
+  "Legião Urbana": Array [
+    22,
+  ],
+  "Leng Tch'e": Array [
+    15,
+  ],
+  "Lenny Kravitz": Array [
+    4,
+  ],
+  "Less Than Jake": Array [
+    14,
+  ],
+  "Lewd Acts": Array [
+    9,
+  ],
+  "Lifehouse": Array [
+    4,
+    32,
+  ],
+  "Liferuiner": Array [
+    12,
+  ],
+  "Lil' Wayne": Array [
+    14,
+    26,
+  ],
+  "Lily Allen": Array [
+    23,
+    32,
+  ],
+  "Limbonic Art": Array [
+    24,
+  ],
+  "Limp Bizkit": Array [
+    15,
+    23,
+  ],
+  "Linkin Park": Array [
+    4,
+    28,
+    32,
+  ],
+  "Lionheart": Array [
+    12,
+  ],
+  "Local H": Array [
+    3,
+  ],
+  "London Elektricity": Array [
+    23,
+  ],
+  "Los Dorados": Array [
+    19,
+  ],
+  "Los Hermanos": Array [
+    20,
+  ],
+  "Lostprophets": Array [
+    10,
+    18,
+    28,
+  ],
+  "Luciano Berio": Array [
+    29,
+  ],
+  "Ludacris": Array [
+    10,
+    18,
+  ],
+  "Ludwig van Beethoven": Array [
+    17,
+  ],
+  "Lupe Fiasco": Array [
+    26,
+  ],
+  "Luror": Array [
+    24,
+  ],
+  "M.I.A.": Array [
+    21,
+  ],
+  "MC Lars": Array [
+    26,
+  ],
+  "MGMT": Array [
+    10,
+    14,
+    16,
+    28,
+    31,
+  ],
+  "Machinae Supremacy": Array [
+    23,
+  ],
+  "Machine Head": Array [
+    16,
+  ],
+  "Madball": Array [
+    9,
+  ],
+  "Madonna": Array [
+    4,
+    21,
+  ],
+  "Maki Goto feat. Sweet Black": Array [
+    21,
+  ],
+  "Mallancia": Array [
+    10,
+  ],
+  "Mambo De La Pinta": Array [
+    0,
+  ],
+  "Mando Diao": Array [
+    4,
+    32,
+  ],
+  "Manic Street Preachers": Array [
+    8,
+  ],
+  "Marduk": Array [
+    24,
+  ],
+  "Mariah Carey": Array [
+    21,
+  ],
+  "Marilyn Manson": Array [
+    10,
+    15,
+  ],
+  "Mario": Array [
+    3,
+  ],
+  "Maroon 5": Array [
+    8,
+  ],
+  "Martyrs And Madmen": Array [
+    12,
+  ],
+  "Massive Attack": Array [
+    7,
+  ],
+  "Mastodon": Array [
+    16,
+    30,
+  ],
+  "Matchbook Romance": Array [
+    28,
+  ],
+  "Matt Elliott": Array [
+    30,
+  ],
+  "Maxïmo Park": Array [
+    32,
+  ],
+  "Mayday Parade": Array [
+    10,
+  ],
+  "Mayhem": Array [
+    24,
+  ],
+  "McFly": Array [
+    1,
+  ],
+  "Megadeth": Array [
+    3,
+    15,
+    16,
+  ],
+  "Melvins": Array [
+    22,
+  ],
+  "Men Without Hats": Array [
+    27,
+  ],
+  "Mercyful Fate": Array [
+    6,
+    24,
+  ],
+  "Meshuggah": Array [
+    16,
+  ],
+  "Messer Chups": Array [
+    19,
+  ],
+  "Metallica": Array [
+    8,
+    11,
+    15,
+    16,
+    18,
+    22,
+    25,
+    28,
+  ],
+  "Metric": Array [
+    13,
+    18,
+  ],
+  "Mew": Array [
+    13,
+  ],
+  "Micachu": Array [
+    2,
+  ],
+  "Michael Bublé": Array [
+    0,
+  ],
+  "Michael Jackson": Array [
+    22,
+    31,
+  ],
+  "Midlake": Array [
+    2,
+  ],
+  "Miike Snow": Array [
+    23,
+  ],
+  "Mika": Array [
+    1,
+  ],
+  "Mila Ayuhara": Array [
+    12,
+  ],
+  "Miles Away": Array [
+    9,
+  ],
+  "Miles Davis": Array [
+    7,
+    17,
+  ],
+  "Miley Cyrus": Array [
+    1,
+    21,
+  ],
+  "Milton Nascimento": Array [
+    22,
+  ],
+  "Mindless Self Indulgence": Array [
+    31,
+  ],
+  "Mira": Array [
+    0,
+  ],
+  "Mnemic": Array [
+    15,
+  ],
+  "Modern Life Is War": Array [
+    9,
+  ],
+  "Modest Mouse": Array [
+    29,
+  ],
+  "Mogwai": Array [
+    7,
+  ],
+  "Monade": Array [
+    19,
+  ],
+  "Mono": Array [
+    9,
+    30,
+  ],
+  "Monsters of Folk": Array [
+    14,
+  ],
+  "Moonspell": Array [
+    25,
+  ],
+  "Morbid Angel": Array [
+    30,
+  ],
+  "More Than Life": Array [
+    9,
+  ],
+  "Mortal Love": Array [
+    25,
+  ],
+  "Morton Feldman": Array [
+    29,
+  ],
+  "Motörhead": Array [
+    2,
+    16,
+    27,
+  ],
+  "Moëvöt": Array [
+    24,
+  ],
+  "Mr B": Array [
+    23,
+  ],
+  "Mr. Bungle": Array [
+    22,
+  ],
+  "Mt Eden": Array [
+    23,
+  ],
+  "Muddy Waters": Array [
+    7,
+  ],
+  "Mudvayne": Array [
+    15,
+    18,
+  ],
+  "Murder In Greenwich": Array [
+    12,
+  ],
+  "Muse": Array [
+    4,
+    5,
+    8,
+    10,
+    13,
+    14,
+    15,
+    16,
+    20,
+    22,
+    23,
+    27,
+    28,
+    30,
+    31,
+    32,
+  ],
+  "My Bitter End": Array [
+    12,
+  ],
+  "My Bloody Valentine": Array [
+    11,
+    19,
+    29,
+  ],
+  "My Chemical Romance": Array [
+    10,
+    26,
+    31,
+    32,
+  ],
+  "Mötley Crüe": Array [
+    15,
+  ],
+  "N*E*R*D": Array [
+    26,
+  ],
+  "N.W.A": Array [
+    16,
+  ],
+  "NOFX": Array [
+    14,
+  ],
+  "Nachtfalke": Array [
+    24,
+  ],
+  "Nada Surf": Array [
+    32,
+  ],
+  "Nasri": Array [
+    4,
+  ],
+  "Natasha Bedingfield": Array [
+    10,
+  ],
+  "Necrophobic": Array [
+    6,
+    24,
+  ],
+  "Neil Norman and His Cosmic Orchestra": Array [
+    11,
+  ],
+  "Nelly": Array [
+    3,
+  ],
+  "Nelly Furtado": Array [
+    21,
+  ],
+  "Nemesea": Array [
+    21,
+  ],
+  "Netsky": Array [
+    23,
+  ],
+  "Neutral Milk Hotel": Array [
+    2,
+  ],
+  "Nevermore": Array [
+    15,
+  ],
+  "New Found Glory": Array [
+    10,
+  ],
+  "New Kids on the Block": Array [
+    4,
+  ],
+  "New Order": Array [
+    14,
+  ],
+  "Nick Drake": Array [
+    17,
+    30,
+  ],
+  "Nickelback": Array [
+    3,
+    4,
+    10,
+    28,
+  ],
+  "Nifelheim": Array [
+    24,
+  ],
+  "Nightrage": Array [
+    6,
+    25,
+  ],
+  "Nightwish": Array [
+    21,
+    25,
+  ],
+  "Nina Hagen": Array [
+    27,
+  ],
+  "Nine Inch Nails": Array [
+    22,
+    26,
+    30,
+  ],
+  "Nirvana": Array [
+    7,
+    8,
+    10,
+    16,
+    17,
+    20,
+    28,
+    31,
+  ],
+  "Nocte Obducta": Array [
+    24,
+  ],
+  "Nocturnal Rites": Array [
+    25,
+  ],
+  "Nocturnus": Array [
+    6,
+  ],
+  "Nokturnal Mortum": Array [
+    24,
+  ],
+  "Nonpoint": Array [
+    18,
+  ],
+  "Norma Jean": Array [
+    9,
+    26,
+  ],
+  "Noumena": Array [
+    6,
+  ],
+  "Novembers Doom": Array [
+    30,
+  ],
+  "Novi Singers": Array [
+    19,
+  ],
+  "Nurse With Wound": Array [
+    19,
+  ],
+  "OK Go": Array [
+    10,
+  ],
+  "OSI": Array [
+    30,
+  ],
+  "Oasis": Array [
+    1,
+    4,
+    8,
+    20,
+    31,
+  ],
+  "Of Virtue": Array [
+    12,
+  ],
+  "Olivier Messiaen": Array [
+    29,
+  ],
+  "Omar A. Rodriguez-Lopez": Array [
+    16,
+  ],
+  "Omar Rodriguez Lopez & John Frusciante": Array [
+    16,
+  ],
+  "Omnium Gatherum": Array [
+    6,
+  ],
+  "OneRepublic": Array [
+    4,
+  ],
+  "Opeth": Array [
+    6,
+    16,
+    22,
+    30,
+  ],
+  "Ophthalamia": Array [
+    24,
+  ],
+  "Orchid": Array [
+    9,
+  ],
+  "Os Mutantes": Array [
+    20,
+    22,
+  ],
+  "OutKast": Array [
+    26,
+  ],
+  "Ove": Array [
+    16,
+  ],
+  "Owl City": Array [
+    1,
+  ],
+  "Ozzy Osbourne": Array [
+    25,
+  ],
+  "PMMP": Array [
+    13,
+  ],
+  "Paatos": Array [
+    30,
+  ],
+  "Panda Bear": Array [
+    2,
+  ],
+  "Panic! At the Disco": Array [
+    10,
+    18,
+    31,
+  ],
+  "Pantera": Array [
+    22,
+  ],
+  "Paolo Nutini": Array [
+    32,
+  ],
+  "Papa Roach": Array [
+    10,
+    32,
+  ],
+  "Parachute": Array [
+    1,
+  ],
+  "Paramore": Array [
+    10,
+    14,
+    18,
+    21,
+    28,
+    32,
+  ],
+  "Pariisin Kevät": Array [
+    13,
+  ],
+  "Pato Fu": Array [
+    27,
+  ],
+  "Paté de Fuá": Array [
+    19,
+  ],
+  "Paul Gilbert": Array [
+    22,
+  ],
+  "Paul Hardcastle": Array [
+    27,
+  ],
+  "Paul McCartney": Array [
+    17,
+  ],
+  "Paul McCartney & Wings": Array [
+    20,
+  ],
+  "Pavement": Array [
+    11,
+    14,
+    29,
+  ],
+  "Pearl Jam": Array [
+    8,
+    16,
+    17,
+    20,
+    22,
+  ],
+  "Pendulum": Array [
+    23,
+    28,
+  ],
+  "Pepper": Array [
+    18,
+  ],
+  "Pet Shop Boys": Array [
+    20,
+  ],
+  "Peter Gabriel": Array [
+    22,
+    30,
+  ],
+  "Phoebe Buffay": Array [
+    1,
+  ],
+  "Phoenix": Array [
+    20,
+  ],
+  "Pierre Boulez": Array [
+    29,
+  ],
+  "Pig Destroyer": Array [
+    16,
+  ],
+  "Pink": Array [
+    21,
+    32,
+  ],
+  "Pink Floyd": Array [
+    7,
+    8,
+    14,
+    16,
+    17,
+    19,
+    20,
+    22,
+    30,
+  ],
+  "Pitbull": Array [
+    23,
+  ],
+  "Pixies": Array [
+    11,
+    29,
+  ],
+  "Placebo": Array [
+    4,
+    8,
+    10,
+    13,
+    25,
+    31,
+    32,
+  ],
+  "Plain White T's": Array [
+    1,
+  ],
+  "Porcelain and the Tramps": Array [
+    18,
+  ],
+  "Porcupine Tree": Array [
+    22,
+    30,
+  ],
+  "Portishead": Array [
+    2,
+    9,
+    19,
+    28,
+  ],
+  "Powerman 5000": Array [
+    18,
+  ],
+  "Preschool Tea Party Massacre": Array [
+    15,
+  ],
+  "Prime Circle": Array [
+    28,
+  ],
+  "Prodigy": Array [
+    23,
+  ],
+  "Profanatica": Array [
+    24,
+  ],
+  "Prong": Array [
+    15,
+  ],
+  "Protest the Hero": Array [
+    12,
+  ],
+  "Pulp": Array [
+    2,
+  ],
+  "Punch": Array [
+    9,
+  ],
+  "Pure Prairie League": Array [
+    3,
+  ],
+  "Pyotr Ilyich Tchaikovsky": Array [
+    17,
+  ],
+  "Q Lazzarus": Array [
+    27,
+  ],
+  "Queen": Array [
+    22,
+  ],
+  "Queen & David Bowie": Array [
+    11,
+  ],
+  "Queens of the Stone Age": Array [
+    7,
+    22,
+  ],
+  "Quicksilver Messenger Service": Array [
+    7,
+  ],
+  "Quo Vadis": Array [
+    6,
+  ],
+  "R.E.M.": Array [
+    11,
+  ],
+  "REO Speedwagon": Array [
+    3,
+  ],
+  "Radio Moscow": Array [
+    7,
+  ],
+  "Radiohead": Array [
+    0,
+    8,
+    11,
+    14,
+    17,
+    19,
+    20,
+    22,
+    28,
+    29,
+    30,
+    31,
+  ],
+  "Rage Against the Machine": Array [
+    7,
+  ],
+  "Rammstein": Array [
+    11,
+    18,
+  ],
+  "Ramones": Array [
+    2,
+    8,
+    31,
+    32,
+  ],
+  "Rapider Than Horsepower": Array [
+    26,
+  ],
+  "Razorlight": Array [
+    32,
+  ],
+  "Real Estate": Array [
+    2,
+  ],
+  "Recon": Array [
+    12,
+  ],
+  "Red": Array [
+    25,
+    28,
+  ],
+  "Red Hot Chili Peppers": Array [
+    0,
+    8,
+    13,
+    14,
+    16,
+  ],
+  "Red Sparowes": Array [
+    30,
+  ],
+  "Regina": Array [
+    13,
+  ],
+  "Regina Spektor": Array [
+    13,
+  ],
+  "Reign Supreme": Array [
+    9,
+  ],
+  "Relient K": Array [
+    1,
+  ],
+  "Renato Russo & Fernanda Takai": Array [
+    20,
+  ],
+  "Renfue": Array [
+    18,
+  ],
+  "Replace": Array [
+    1,
+  ],
+  "Rihanna": Array [
+    4,
+    13,
+    21,
+  ],
+  "Rilo Kiley": Array [
+    13,
+  ],
+  "Rise Against": Array [
+    0,
+    10,
+    18,
+  ],
+  "Rise and Fall": Array [
+    9,
+  ],
+  "Robbie Williams": Array [
+    4,
+  ],
+  "Robert Francis": Array [
+    32,
+  ],
+  "Rod Stewart": Array [
+    3,
+  ],
+  "Romance On A Rocketship": Array [
+    1,
+  ],
+  "Ronald Jenkees": Array [
+    23,
+  ],
+  "Rooney": Array [
+    32,
+  ],
+  "Rotting Christ": Array [
+    25,
+  ],
+  "Ruiner": Array [
+    9,
+  ],
+  "Running Wild": Array [
+    6,
+  ],
+  "Rush": Array [
+    22,
+    27,
+  ],
+  "Ryan Adams": Array [
+    13,
+  ],
+  "Röyksopp": Array [
+    17,
+    23,
+  ],
+  "Sabaton": Array [
+    23,
+  ],
+  "Sacramentum": Array [
+    6,
+    24,
+  ],
+  "Sad Lovers and Giants": Array [
+    27,
+  ],
+  "Saetia": Array [
+    9,
+  ],
+  "Saliva": Array [
+    18,
+    25,
+  ],
+  "Sarah McLachlan": Array [
+    0,
+  ],
+  "Saturnus": Array [
+    25,
+  ],
+  "Savatage": Array [
+    22,
+  ],
+  "Say Anything": Array [
+    26,
+  ],
+  "Scandinavian Music Group": Array [
+    13,
+  ],
+  "Scar Symmetry": Array [
+    6,
+  ],
+  "Scarface": Array [
+    3,
+  ],
+  "Scars on Broadway": Array [
+    28,
+  ],
+  "Scary Kids Scaring Kids": Array [
+    14,
+  ],
+  "Schoolyard Heroes": Array [
+    18,
+  ],
+  "Scorpions": Array [
+    25,
+  ],
+  "Secos & Molhados": Array [
+    22,
+  ],
+  "Seether": Array [
+    18,
+  ],
+  "Seether (Feat. Amy Lee)": Array [
+    28,
+  ],
+  "Select Start": Array [
+    12,
+  ],
+  "Sentenced": Array [
+    6,
+    25,
+  ],
+  "Sepultura": Array [
+    15,
+  ],
+  "Serge Gainsbourg": Array [
+    15,
+  ],
+  "Serj Tankian": Array [
+    0,
+  ],
+  "Seven": Array [
+    4,
+  ],
+  "Seven Mary Three": Array [
+    3,
+  ],
+  "Sex Pistols": Array [
+    8,
+    31,
+  ],
+  "Shakira": Array [
+    21,
+    23,
+  ],
+  "Shaun of the Dead": Array [
+    17,
+  ],
+  "Shinedown": Array [
+    3,
+  ],
+  "Show Me The Skyline": Array [
+    1,
+  ],
+  "Sia": Array [
+    13,
+  ],
+  "Sick Puppies": Array [
+    3,
+    25,
+  ],
+  "Sick of It All": Array [
+    9,
+  ],
+  "Sigur Rós": Array [
+    13,
+    17,
+  ],
+  "Silverchair": Array [
+    8,
+  ],
+  "Simon & Garfunkel": Array [
+    17,
+  ],
+  "Simple Minds": Array [
+    27,
+  ],
+  "Simple Plan": Array [
+    10,
+  ],
+  "Skalpel": Array [
+    19,
+  ],
+  "Skeletonwitch": Array [
+    16,
+  ],
+  "Skillet": Array [
+    18,
+    28,
+  ],
+  "Skindred": Array [
+    18,
+  ],
+  "Skrillex": Array [
+    23,
+  ],
+  "Skylab": Array [
+    19,
+  ],
+  "Slapshot": Array [
+    9,
+  ],
+  "Slava Tsukerman": Array [
+    19,
+  ],
+  "Slavland": Array [
+    24,
+  ],
+  "Slayer": Array [
+    3,
+    15,
+  ],
+  "Sleeping Giant": Array [
+    12,
+  ],
+  "Sleigh Bells": Array [
+    2,
+  ],
+  "Slightly Stoopid": Array [
+    14,
+  ],
+  "Slipknot": Array [
+    15,
+  ],
+  "Smile Empty Soul": Array [
+    3,
+    4,
+  ],
+  "Snakefinger": Array [
+    19,
+  ],
+  "Snow Patrol": Array [
+    28,
+    32,
+  ],
+  "Sodom": Array [
+    6,
+  ],
+  "Sohodolls": Array [
+    13,
+  ],
+  "Soilwork": Array [
+    6,
+    25,
+  ],
+  "Solomon Ilori and his Afro-Drum Ensemble": Array [
+    0,
+  ],
+  "Son of Dork": Array [
+    1,
+  ],
+  "Sonata Arctica": Array [
+    25,
+  ],
+  "Sonic Syndicate": Array [
+    25,
+  ],
+  "Sonic Youth": Array [
+    29,
+  ],
+  "Sophie Ellis-Bextor": Array [
+    10,
+    21,
+  ],
+  "Soundgarden": Array [
+    17,
+  ],
+  "Spoon": Array [
+    29,
+  ],
+  "Staind": Array [
+    3,
+  ],
+  "Static-X": Array [
+    15,
+  ],
+  "Stephen Jerzak": Array [
+    1,
+  ],
+  "Stereo Skyline": Array [
+    1,
+  ],
+  "Stereolab": Array [
+    19,
+  ],
+  "Stereophonics": Array [
+    8,
+    32,
+  ],
+  "Sterling Knight": Array [
+    1,
+  ],
+  "Steven Wilson": Array [
+    30,
+  ],
+  "Stone Temple Pilots": Array [
+    20,
+  ],
+  "Story of the Year": Array [
+    4,
+    14,
+    28,
+  ],
+  "Straight Line Stitch": Array [
+    28,
+  ],
+  "Stray From the Path": Array [
+    12,
+  ],
+  "Streetlight Manifesto": Array [
+    18,
+  ],
+  "Sub Focus": Array [
+    23,
+  ],
+  "Sublime": Array [
+    14,
+  ],
+  "Submersed": Array [
+    3,
+  ],
+  "Sugarplum Fairy": Array [
+    32,
+  ],
+  "Sum 41": Array [
+    10,
+    14,
+  ],
+  "Sun Ra": Array [
+    19,
+  ],
+  "SunStroke Project & Olia Tira": Array [
+    23,
+  ],
+  "Sunrise Avenue": Array [
+    4,
+  ],
+  "Super Mash Bros.": Array [
+    23,
+  ],
+  "Supergrass": Array [
+    20,
+  ],
+  "Superturbo": Array [
+    7,
+  ],
+  "Suprême NTM": Array [
+    15,
+  ],
+  "Sybreed": Array [
+    15,
+  ],
+  "Symphony X": Array [
+    15,
+  ],
+  "System of a Down": Array [
+    14,
+    18,
+    31,
+  ],
+  "THE WORLD WE KNEW": Array [
+    12,
+  ],
+  "TRUSTcompany": Array [
+    3,
+  ],
+  "Taake": Array [
+    24,
+  ],
+  "Taking Back Sunday": Array [
+    26,
+  ],
+  "Tangerine Dream": Array [
+    30,
+  ],
+  "Tarja": Array [
+    21,
+  ],
+  "Taylor Swift": Array [
+    1,
+  ],
+  "Tegan and Sara": Array [
+    13,
+  ],
+  "Temptation": Array [
+    0,
+  ],
+  "Terror": Array [
+    9,
+  ],
+  "Testify": Array [
+    0,
+  ],
+  "Texas in July": Array [
+    12,
+  ],
+  "Textures": Array [
+    15,
+  ],
+  "The Absence": Array [
+    6,
+  ],
+  "The Academy Is...": Array [
+    10,
+    14,
+    26,
+    31,
+  ],
+  "The Agonist": Array [
+    28,
+  ],
+  "The All-American Rejects": Array [
+    4,
+  ],
+  "The Allman Brothers Band": Array [
+    27,
+  ],
+  "The Almost": Array [
+    26,
+  ],
+  "The Apples in Stereo": Array [
+    20,
+  ],
+  "The Architects": Array [
+    17,
+  ],
+  "The Beach Boys": Array [
+    8,
+  ],
+  "The Beatles": Array [
+    1,
+    5,
+    7,
+    8,
+    14,
+    16,
+    17,
+    20,
+    22,
+    31,
+  ],
+  "The Black Ghosts": Array [
+    28,
+  ],
+  "The Black Keys": Array [
+    7,
+    11,
+    17,
+    19,
+  ],
+  "The Blood Brothers": Array [
+    26,
+  ],
+  "The Calling": Array [
+    3,
+  ],
+  "The Carrier": Array [
+    9,
+  ],
+  "The Chariot": Array [
+    9,
+    26,
+  ],
+  "The Chasm": Array [
+    6,
+  ],
+  "The Chemical Brothers": Array [
+    23,
+  ],
+  "The Cinematic Orchestra": Array [
+    7,
+  ],
+  "The Cinematics": Array [
+    32,
+  ],
+  "The Clash": Array [
+    8,
+    11,
+    13,
+    31,
+  ],
+  "The Color Morale": Array [
+    12,
+  ],
+  "The Courteeners": Array [
+    2,
+  ],
+  "The Crown": Array [
+    6,
+  ],
+  "The Cure": Array [
+    2,
+    5,
+    7,
+    15,
+    30,
+    31,
+  ],
+  "The Dead Weather": Array [
+    7,
+    16,
+  ],
+  "The Decemberists": Array [
+    29,
+  ],
+  "The Dillinger Escape Plan": Array [
+    9,
+    16,
+    22,
+  ],
+  "The Doors": Array [
+    8,
+  ],
+  "The Expendables": Array [
+    14,
+  ],
+  "The Faint": Array [
+    26,
+  ],
+  "The Fall": Array [
+    7,
+  ],
+  "The Fall of Troy": Array [
+    16,
+  ],
+  "The Films": Array [
+    32,
+  ],
+  "The Flaming Lips": Array [
+    14,
+    29,
+  ],
+  "The Fratellis": Array [
+    8,
+    31,
+  ],
+  "The Giant Leap": Array [
+    4,
+  ],
+  "The Go-Betweens": Array [
+    2,
+  ],
+  "The Great Commission": Array [
+    12,
+  ],
+  "The High Llamas": Array [
+    19,
+  ],
+  "The Hives": Array [
+    32,
+  ],
+  "The Horrors": Array [
+    7,
+    31,
+  ],
+  "The Human League": Array [
+    2,
+  ],
+  "The J. Geils Band": Array [
+    3,
+  ],
+  "The Jesus and Mary Chain": Array [
+    2,
+  ],
+  "The Jimi Hendrix Experience": Array [
+    7,
+    8,
+  ],
+  "The Killers": Array [
+    8,
+    13,
+    14,
+    20,
+    31,
+    32,
+  ],
+  "The Kills": Array [
+    7,
+  ],
+  "The Kooks": Array [
+    1,
+    4,
+    13,
+    32,
+  ],
+  "The Last Shadow Puppets": Array [
+    20,
+  ],
+  "The Legendary Pink Dots": Array [
+    19,
+  ],
+  "The Libertines": Array [
+    2,
+  ],
+  "The Mae Shi": Array [
+    26,
+  ],
+  "The Maine": Array [
+    1,
+  ],
+  "The Mars Volta": Array [
+    0,
+    16,
+    22,
+    30,
+  ],
+  "The Matches": Array [
+    26,
+  ],
+  "The Morning Benders": Array [
+    2,
+  ],
+  "The National": Array [
+    0,
+    27,
+    29,
+  ],
+  "The Ocean": Array [
+    30,
+  ],
+  "The Offspring": Array [
+    15,
+    18,
+  ],
+  "The Pains of Being Pure at Heart": Array [
+    2,
+  ],
+  "The Police": Array [
+    8,
+    20,
+    22,
+  ],
+  "The Prodigy": Array [
+    15,
+    18,
+  ],
+  "The Qemists": Array [
+    23,
+  ],
+  "The Raconteurs": Array [
+    16,
+  ],
+  "The Radio Dept.": Array [
+    2,
+  ],
+  "The Rakes": Array [
+    20,
+  ],
+  "The Rascals": Array [
+    20,
+  ],
+  "The Red Jumpsuit Apparatus": Array [
+    4,
+    31,
+  ],
+  "The Residents": Array [
+    19,
+  ],
+  "The Rolling Stones": Array [
+    7,
+    11,
+  ],
+  "The Runaways": Array [
+    27,
+  ],
+  "The Saddest Landscape": Array [
+    9,
+  ],
+  "The Scene Aesthetic": Array [
+    1,
+  ],
+  "The Shins": Array [
+    29,
+  ],
+  "The Smashing Pumpkins": Array [
+    4,
+    8,
+    18,
+    22,
+    31,
+  ],
+  "The Smiths": Array [
+    2,
+    8,
+    11,
+    13,
+  ],
+  "The Sound of Animals Fighting": Array [
+    26,
+  ],
+  "The Sounds": Array [
+    32,
+  ],
+  "The Starting Line": Array [
+    3,
+  ],
+  "The Stooges": Array [
+    16,
+  ],
+  "The Strokes": Array [
+    8,
+    20,
+    29,
+    32,
+  ],
+  "The Subways": Array [
+    31,
+    32,
+  ],
+  "The Sword": Array [
+    16,
+  ],
+  "The Tallest Man on Earth": Array [
+    2,
+  ],
+  "The Ting Tings": Array [
+    10,
+  ],
+  "The Tony Danza Tapdance Extravaganza": Array [
+    12,
+  ],
+  "The Used": Array [
+    18,
+    26,
+    31,
+    32,
+  ],
+  "The Velvet Underground": Array [
+    2,
+  ],
+  "The Verve": Array [
+    11,
+  ],
+  "The Vincent Black Shadow": Array [
+    18,
+  ],
+  "The Weird Sisters": Array [
+    1,
+  ],
+  "The White Stripes": Array [
+    7,
+    8,
+    16,
+    20,
+    26,
+    31,
+  ],
+  "The Who": Array [
+    11,
+    20,
+    27,
+  ],
+  "The xx": Array [
+    13,
+    14,
+  ],
+  "Them Crooked Vultures": Array [
+    8,
+    20,
+  ],
+  "Theory of a Deadman": Array [
+    0,
+    3,
+  ],
+  "There Is The Bomb": Array [
+    0,
+  ],
+  "This Is Colour": Array [
+    12,
+  ],
+  "Thomas Newman": Array [
+    17,
+  ],
+  "Thomas Tallis": Array [
+    29,
+  ],
+  "Thousand Foot Krutch": Array [
+    18,
+  ],
+  "Three Days Grace": Array [
+    10,
+    28,
+  ],
+  "Thrice": Array [
+    14,
+  ],
+  "Thursday": Array [
+    9,
+    26,
+    31,
+  ],
+  "Tiësto": Array [
+    23,
+  ],
+  "To/Die/For": Array [
+    25,
+  ],
+  "Tom Waits": Array [
+    7,
+    19,
+  ],
+  "Tomahawk": Array [
+    22,
+  ],
+  "Tommy Emmanuel": Array [
+    3,
+  ],
+  "Tomte": Array [
+    32,
+  ],
+  "Toni Braxton": Array [
+    21,
+  ],
+  "Tool": Array [
+    7,
+    11,
+    16,
+    18,
+    22,
+    30,
+  ],
+  "Torturing Nurse": Array [
+    19,
+  ],
+  "Toto": Array [
+    4,
+  ],
+  "Toxic Holocaust": Array [
+    16,
+  ],
+  "Traffic": Array [
+    19,
+  ],
+  "Trainwreck": Array [
+    9,
+  ],
+  "Trapt": Array [
+    3,
+  ],
+  "Traveling Wilburys": Array [
+    17,
+  ],
+  "Travka": Array [
+    25,
+  ],
+  "Trivium": Array [
+    16,
+  ],
+  "Tsuyoshi Sekito": Array [
+    0,
+  ],
+  "Tuxedomoon": Array [
+    19,
+  ],
+  "Two Door Cinema Club": Array [
+    4,
+  ],
+  "Tyr": Array [
+    23,
+  ],
+  "U2": Array [
+    4,
+    8,
+    16,
+    22,
+  ],
+  "Uh Huh Her": Array [
+    13,
+  ],
+  "Ultra Vomit": Array [
+    15,
+  ],
+  "Ultravox": Array [
+    27,
+  ],
+  "Ulver": Array [
+    30,
+  ],
+  "Unanimated": Array [
+    6,
+  ],
+  "Underoath": Array [
+    14,
+    26,
+    31,
+  ],
+  "Upon A Burning Body": Array [
+    12,
+  ],
+  "Urgehal": Array [
+    24,
+  ],
+  "Vampire Weekend": Array [
+    1,
+    2,
+    4,
+    13,
+    14,
+    20,
+  ],
+  "Van Halen": Array [
+    16,
+    17,
+    27,
+  ],
+  "Van der Graaf Generator": Array [
+    30,
+  ],
+  "Vanna": Array [
+    12,
+  ],
+  "Vazelina Bilopphøggers": Array [
+    23,
+  ],
+  "Venom": Array [
+    16,
+    24,
+  ],
+  "VersaEmerge": Array [
+    10,
+  ],
+  "Verse": Array [
+    9,
+  ],
+  "Vita De Vie": Array [
+    25,
+  ],
+  "Wagon Christ": Array [
+    19,
+  ],
+  "Watain": Array [
+    24,
+  ],
+  "Wavves": Array [
+    2,
+  ],
+  "We Came As Romans": Array [
+    12,
+  ],
+  "Weezer": Array [
+    29,
+  ],
+  "Wendy Carlos": Array [
+    27,
+  ],
+  "White Lies": Array [
+    4,
+  ],
+  "White Noise": Array [
+    19,
+  ],
+  "White Zombie": Array [
+    27,
+  ],
+  "Why?": Array [
+    26,
+  ],
+  "William Byrd": Array [
+    29,
+  ],
+  "Winter": Array [
+    0,
+  ],
+  "Wire": Array [
+    2,
+  ],
+  "Within Temptation": Array [
+    21,
+    25,
+    28,
+  ],
+  "Wolfgang Amadeus Mozart": Array [
+    3,
+  ],
+  "Wolfmother": Array [
+    7,
+  ],
+  "Xasthur": Array [
+    24,
+  ],
+  "Xiu Xiu": Array [
+    2,
+    19,
+  ],
+  "YTCracker": Array [
+    18,
+  ],
+  "Yann Tiersen": Array [
+    31,
+  ],
+  "Yeah Yeah Yeahs": Array [
+    7,
+    13,
+    31,
+    32,
+  ],
+  "Years Spent Cold": Array [
+    12,
+  ],
+  "Yellowcard": Array [
+    14,
+    32,
+  ],
+  "Yes": Array [
+    30,
+  ],
+  "Yo La Tengo": Array [
+    29,
+  ],
+  "You Don't Know What Love Is": Array [
+    0,
+  ],
+  "You Me At Six": Array [
+    10,
+  ],
+  "Your Demise": Array [
+    9,
+  ],
+  "Yusef Lateef": Array [
+    19,
+  ],
+  "ZZ Top": Array [
+    7,
+  ],
+  "Zealous1": Array [
+    18,
+  ],
+  "a-ha": Array [
+    27,
+  ],
+  "alan": Array [
+    21,
+  ],
+  "blink-182": Array [
+    1,
+    8,
+    14,
+    15,
+    32,
+  ],
+  "dälek": Array [
+    30,
+  ],
+  "iwrestledabearonce": Array [
+    26,
+  ],
+  "love it or leave it": Array [
+    12,
+  ],
+  "nevershoutnever!": Array [
+    1,
+    10,
+  ],
+  "t.A.T.u.": Array [
+    13,
+    21,
+  ],
+  "take back the roman empire": Array [
+    12,
+  ],
+  "Мумий Тролль": Array [
+    7,
+  ],
+  "倖田來未": Array [
+    21,
+  ],
+  "光田康典": Array [
+    0,
+  ],
+  "周杰倫": Array [
+    0,
+  ],
+  "宇多田ヒカル": Array [
+    21,
+  ],
+  "安室奈美恵": Array [
+    21,
+  ],
+  "植松伸夫": Array [
+    0,
+  ],
+  "浜崎あゆみ": Array [
+    21,
+  ],
+  "譚盾": Array [
+    30,
+  ],
+  "鈴木あみ": Array [
+    21,
+  ],
+  "비": Array [
+    21,
+  ],
+}
+`;
+
+exports[`getArtistLists 
+    should convert string containing artist lists into a 2D array.
+     1`] = `
+Array [
+  Array [
+    "Michael Bublé",
+    "Jason Mraz",
+    "光田康典",
+    "The National",
+    "Sarah McLachlan",
+    "Claude Debussy",
+    "Lady Gaga",
+    "周杰倫",
+    "植松伸夫",
+    "Indochine",
+    "Rise Against",
+    "City and Colour",
+    "Radiohead",
+    "Red Hot Chili Peppers",
+    "Alexisonfire",
+    "Bebo & Cigala",
+    "The Mars Volta",
+    "Chick Corea & Hiromi",
+    "Theory of a Deadman",
+    "Cantaloupe Island",
+    "Adam's Apple",
+    "A Brighter Day",
+    "Afrodisia",
+    "Mambo De La Pinta",
+    "Greg Osby",
+    "James Newton",
+    "Testify",
+    "Art Blakey",
+    "Caravan",
+    "Tsuyoshi Sekito",
+    "Mira",
+    "Temptation",
+    "A Night In Tunisia",
+    "Serj Tankian",
+    "Winter",
+    "Duke Pearson",
+    "Cantaloop (Flip Fantasia)",
+    "Cæcilie Norby",
+    "El Cumbanchero",
+    "You Don't Know What Love Is",
+    "Death Letter",
+    "Art Taylor",
+    "Closer to Home",
+    "Indio Gitano",
+    "Solomon Ilori and his Afro-Drum Ensemble",
+    "Black Byrd",
+    "Far West",
+    "Hi-Heel Sneakers",
+    "Congalegra",
+    "There Is The Bomb",
+  ],
+  Array [
+    "The Beatles",
+    "Chase Coy",
+    "Stephen Jerzak",
+    "nevershoutnever!",
+    "Taylor Swift",
+    "The Maine",
+    "All Time Low",
+    "Boys Like Girls",
+    "McFly",
+    "Owl City",
+    "Glee Cast",
+    "Brokencyde",
+    "Ke$ha",
+    "Relient K",
+    "Cobra Starship",
+    "Jason Mraz",
+    "Across The Universe Soundtrack",
+    "Romance On A Rocketship",
+    "Hellogoodbye",
+    "Avril Lavigne",
+    "Show Me The Skyline",
+    "Hey Monday",
+    "Sterling Knight",
+    "Kate Nash",
+    "Plain White T's",
+    "Breathe Carolina",
+    "Parachute",
+    "HEVO84",
+    "Stereo Skyline",
+    "Mika",
+    "The Weird Sisters",
+    "The Kooks",
+    "The Scene Aesthetic",
+    "Lady Gaga",
+    "Fake Number",
+    "High School Musical 3",
+    "3OH!3",
+    "Devon Werkheiser",
+    "Bring Me The Horizon",
+    "Dear Juliet",
+    "Replace",
+    "Phoebe Buffay",
+    "Son of Dork",
+    "Vampire Weekend",
+    "blink-182",
+    "A Rocket To The Moon",
+    "Oasis",
+    "John Williams",
+    "Miley Cyrus",
+    "Lady Antebellum",
+  ],
+  Array [
+    "Animal Collective",
+    "Joy Division",
+    "Ariel Pink's Haunted Graffiti",
+    "Fang Island",
+    "The Courteeners",
+    "Xiu Xiu",
+    "The Velvet Underground",
+    "Sleigh Bells",
+    "Belle and Sebastian",
+    "Portishead",
+    "Neutral Milk Hotel",
+    "Wire",
+    "Deerhunter",
+    "Ramones",
+    "65daysofstatic",
+    "The Pains of Being Pure at Heart",
+    "The Cure",
+    "The Radio Dept.",
+    "Avi Buffalo",
+    "Wavves",
+    "Real Estate",
+    "The Jesus and Mary Chain",
+    "The Tallest Man on Earth",
+    "Clark",
+    "The Morning Benders",
+    "The Human League",
+    "Fuck Buttons",
+    "The Libertines",
+    "Burial",
+    "Broken Bells",
+    "The Go-Betweens",
+    "The Smiths",
+    "Beach House",
+    "Beirut",
+    "Crystal Castles",
+    "God Is an Astronaut",
+    "Beth Gibbons & Rustin Man",
+    "Balmorhea",
+    "Pulp",
+    "Fleet Foxes",
+    "Frightened Rabbit",
+    "Vampire Weekend",
+    "Chrome",
+    "Midlake",
+    "Flying Lotus",
+    "Panda Bear",
+    "Caribou",
+    "Micachu",
+    "Motörhead",
+    "Girls",
+  ],
+  Array [
+    "Bob Seger",
+    "30 Seconds to Mars",
+    "Crossfade",
+    "Staind",
+    "Dashboard Confessional",
+    "Eddie Money",
+    "Local H",
+    "Fuel",
+    "The Starting Line",
+    "Theory of a Deadman",
+    "Trapt",
+    "Boston",
+    ".38 Special",
+    "Sick Puppies",
+    "Smile Empty Soul",
+    "Chingy",
+    "Don Ross",
+    "Baby Bash",
+    "Hinder",
+    "Wolfgang Amadeus Mozart",
+    "Rod Stewart",
+    "Nickelback",
+    "Incubus",
+    "Jimmy Eat World",
+    "REO Speedwagon",
+    "TRUSTcompany",
+    "Tommy Emmanuel",
+    "Jackson Browne",
+    "Collective Soul",
+    "The Calling",
+    "Seven Mary Three",
+    "Pure Prairie League",
+    "Candlebox",
+    "Breaking Benjamin",
+    "Mario",
+    "Shinedown",
+    "Doyle Dykes",
+    "The J. Geils Band",
+    "Submersed",
+    "Hawthorne Heights",
+    "10 Years",
+    "Andy McKee",
+    "Craig D'Andrea",
+    "Nelly",
+    "Scarface",
+    "Johann Sebastian Bach",
+    "Megadeth",
+    "Slayer",
+    "Don Henley",
+    "Eagles",
+  ],
+  Array [
+    "Muse",
+    "Mando Diao",
+    "Lady Gaga",
+    "The All-American Rejects",
+    "Jamie Cullum",
+    "Placebo",
+    "Nasri",
+    "Story of the Year",
+    "Nickelback",
+    "The Kooks",
+    "Die Toten Hosen",
+    "John Mayer",
+    "Seven",
+    "The Smashing Pumpkins",
+    "Fall Out Boy",
+    "New Kids on the Block",
+    "Linkin Park",
+    "Jay Sean",
+    "Two Door Cinema Club",
+    "Akon",
+    "Elvis Costello",
+    "Incubus",
+    "Vampire Weekend",
+    "White Lies",
+    "Madonna",
+    "Robbie Williams",
+    "Charlie Winston",
+    "Breitbild",
+    "The Giant Leap",
+    "Foo Fighters",
+    "Smile Empty Soul",
+    "Lifehouse",
+    "Amy Winehouse",
+    "Katy Perry",
+    "Hoobastank",
+    "Daughtry",
+    "Justin Timberlake",
+    "Jamiroquai",
+    "Rihanna",
+    "The Red Jumpsuit Apparatus",
+    "Klaus Badelt",
+    "Lenny Kravitz",
+    "Gimma",
+    "BenSem",
+    "U2",
+    "Sunrise Avenue",
+    "OneRepublic",
+    "Toto",
+    "Oasis",
+    "Baschi",
+  ],
+  Array [
+    "Florence + the Machine",
+    "The Cure",
+    "Favours For Sailors",
+    "The Beatles",
+    "Muse",
+  ],
+  Array [
+    "Amorphis",
+    "Ceremonial Castings",
+    "Katatonia",
+    "Insomnium",
+    "Behemoth",
+    "At the Gates",
+    "Kalmah",
+    "Eternal Tears of Sorrow",
+    "Arsis",
+    "Quo Vadis",
+    "Necrophobic",
+    "Dissection",
+    "Soilwork",
+    "Running Wild",
+    "Keep of Kalessin",
+    "Grave Digger",
+    "Mercyful Fate",
+    "Candlemass",
+    "Dark Tranquillity",
+    "Sacramentum",
+    "Opeth",
+    "Anathema",
+    "Amon Amarth",
+    "Sodom",
+    "Death",
+    "Iron Maiden",
+    "Emperor",
+    "Children of Bodom",
+    "Ensiferum",
+    "Kingston Wall",
+    "Sentenced",
+    "Blackfield",
+    "Nightrage",
+    "ChthoniC",
+    "King Diamond",
+    "Black Sabbath",
+    "Blind Guardian",
+    "Edge of Sanity",
+    "Unanimated",
+    "Demigod",
+    "God Dethroned",
+    "Forgotten Woods",
+    "The Crown",
+    "The Chasm",
+    "Scar Symmetry",
+    "Noumena",
+    "Dead Can Dance",
+    "The Absence",
+    "Omnium Gatherum",
+    "Nocturnus",
+  ],
+  Array [
+    "Led Zeppelin",
+    "Jimi Hendrix",
+    "The Black Keys",
+    "The Jimi Hendrix Experience",
+    "The Dead Weather",
+    "The White Stripes",
+    "Joe Pass",
+    "The Beatles",
+    "Queens of the Stone Age",
+    "The Rolling Stones",
+    "Franz Ferdinand",
+    "Tool",
+    "Nirvana",
+    "Pink Floyd",
+    "Cream",
+    "The Fall",
+    "Miles Davis",
+    "Bonobo",
+    "Bob Marley & The Wailers",
+    "Amon Tobin",
+    "The Kills",
+    "Radio Moscow",
+    "The Horrors",
+    "Bill Evans Trio",
+    "Muddy Waters",
+    "John Lee Hooker",
+    "Rage Against the Machine",
+    "Gonjasufi",
+    "The Cinematic Orchestra",
+    "Eagles of Death Metal",
+    "Chuck Berry",
+    "Jefferson Airplane",
+    "Interpol",
+    "Quicksilver Messenger Service",
+    "Billy's Band",
+    "Mogwai",
+    "ZZ Top",
+    "65daysofstatic",
+    "God Is an Astronaut",
+    "Japandroids",
+    "Massive Attack",
+    "Big Brother & The Holding Company",
+    "Мумий Тролль",
+    "Clutch",
+    "Wolfmother",
+    "Superturbo",
+    "Tom Waits",
+    "Yeah Yeah Yeahs",
+    "The Cure",
+    "Joy Division",
+  ],
+  Array [
+    "The Doors",
+    "The Beatles",
+    "Nirvana",
+    "Ramones",
+    "Kings of Leon",
+    "The Smashing Pumpkins",
+    "Elvis Presley",
+    "Pearl Jam",
+    "Alice in Chains",
+    "blink-182",
+    "Silverchair",
+    "A Fine Frenzy",
+    "Radiohead",
+    "Keane",
+    "Arctic Monkeys",
+    "The Beach Boys",
+    "Them Crooked Vultures",
+    "Foo Fighters",
+    "Metallica",
+    "Interpol",
+    "Green Day",
+    "Depeche Mode",
+    "The Smiths",
+    "Maroon 5",
+    "Red Hot Chili Peppers",
+    "Bee Gees",
+    "U2",
+    "Muse",
+    "Stereophonics",
+    "The Clash",
+    "The Strokes",
+    "Sex Pistols",
+    "AC/DC",
+    "Coldplay",
+    "Babyshambles",
+    "Jimmy Eat World",
+    "The Police",
+    "Pink Floyd",
+    "Oasis",
+    "Manic Street Preachers",
+    "Led Zeppelin",
+    "Incubus",
+    "Bullet for My Valentine",
+    "Blur",
+    "Placebo",
+    "The Killers",
+    "The Fratellis",
+    "The Jimi Hendrix Experience",
+    "The White Stripes",
+    "Black Sabbath",
+  ],
+  Array [
+    "Converge",
+    "Dir en grey",
+    "Ruiner",
+    "Envy",
+    "Dead Swans",
+    "Graf Orlock",
+    "Defeater",
+    "Gallows",
+    "Your Demise",
+    "Saetia",
+    "Killing the Dream",
+    "Terror",
+    "Bane",
+    "Ghostlimb",
+    "Carpathian",
+    "The Carrier",
+    "Comadre",
+    "More Than Life",
+    "Gold Kids",
+    "The Dillinger Escape Plan",
+    "Mono",
+    "Emmure",
+    "Portishead",
+    "Verse",
+    "The Chariot",
+    "Death Before Dishonor",
+    "Have Heart",
+    "Punch",
+    "Madball",
+    "Akira Yamaoka",
+    "Miles Away",
+    "Norma Jean",
+    "Orchid",
+    "Reign Supreme",
+    "Slapshot",
+    "Bring Me The Horizon",
+    "Comeback Kid",
+    "Rise and Fall",
+    "First Blood",
+    "Sick of It All",
+    "La Dispute",
+    "Lewd Acts",
+    "Thursday",
+    "Kaishakunin",
+    "Alpinist",
+    "Modern Life Is War",
+    "Trainwreck",
+    "Agnostic Front",
+    "The Saddest Landscape",
+    "Escapado",
+  ],
+  Array [
+    "Paramore",
+    "Nirvana",
+    "Fall Out Boy",
+    "My Chemical Romance",
+    "All Time Low",
+    "Coldplay",
+    "Kings of Leon",
+    "Sophie Ellis-Bextor",
+    "3OH!3",
+    "Florence + the Machine",
+    "Muse",
+    "Flyleaf",
+    "B.O.B. ft. Hayley Williams",
+    "Lostprophets",
+    "Nickelback",
+    "Papa Roach",
+    "Jimmy Eat World",
+    "Ke$ha",
+    "Escape the Fate",
+    "New Found Glory",
+    "Ludacris",
+    "Mayday Parade",
+    "Ellie Goulding",
+    "Marilyn Manson",
+    "Three Days Grace",
+    "You Me At Six",
+    "Automatic Loveletter",
+    "Hey Monday",
+    "Eminem",
+    "Simple Plan",
+    "Good Charlotte",
+    "OK Go",
+    "Rise Against",
+    "Billy Talent",
+    "Kasabian",
+    "Panic! At the Disco",
+    "Kyle Evans",
+    "Aloha From Hell",
+    "Framing Hanley",
+    "The Ting Tings",
+    "nevershoutnever!",
+    "Sum 41",
+    "AC/DC",
+    "Natasha Bedingfield",
+    "The Academy Is...",
+    "MGMT",
+    "Mallancia",
+    "VersaEmerge",
+    "Drowning Pool",
+    "Placebo",
+  ],
+  Array [
+    "R.E.M.",
+    "My Bloody Valentine",
+    "Arcade Fire",
+    "David Bowie",
+    "Rammstein",
+    "Pavement",
+    "Pixies",
+    "The Smiths",
+    "Daft Punk",
+    "The Rolling Stones",
+    "Tool",
+    "Radiohead",
+    "The Verve",
+    "Led Zeppelin",
+    "The Clash",
+    "Metallica",
+    "AC/DC",
+    "Guns N' Roses",
+    "Queen & David Bowie",
+    "Elton John",
+    "Clint Mansell",
+    "Neil Norman and His Cosmic Orchestra",
+    "The Black Keys",
+    "The Who",
+  ],
+  Array [
+    "Years Spent Cold",
+    "American Me",
+    "Architects",
+    "Earth From Above",
+    "Stray From the Path",
+    "Awaken Demons",
+    "Betrayal",
+    "My Bitter End",
+    "Destruction of a King",
+    "Mila Ayuhara",
+    "Bleed the Same",
+    "The Great Commission",
+    "Backbreaker",
+    "Lionheart",
+    "Elysia",
+    "Aegaeon",
+    "Martyrs And Madmen",
+    "Upon A Burning Body",
+    "Of Virtue",
+    "This Is Colour",
+    "Elenora",
+    "Belay My Last",
+    "Catapult Turtle Defense Mode",
+    "Protest the Hero",
+    "Sleeping Giant",
+    "Girl Named Vegas",
+    "Helia",
+    "THE WORLD WE KNEW",
+    "Vanna",
+    "I Call Fives",
+    "Gwen Stacy",
+    "Liferuiner",
+    "Beheading Of A King",
+    "Fit For An Autopsy",
+    "Dead In Existence",
+    "Arsonists Get All The Girls",
+    "Murder In Greenwich",
+    "Freshman 15",
+    "take back the roman empire",
+    "Disfigured Elegance",
+    "love it or leave it",
+    "The Color Morale",
+    "Select Start",
+    "Born of Osiris",
+    "Knock em Dead",
+    "We Came As Romans",
+    "The Tony Danza Tapdance Extravaganza",
+    "Recon",
+    "Texas in July",
+    "Dissipate",
+  ],
+  Array [
+    "Asobi Seksu",
+    "Metric",
+    "The Smiths",
+    "Scandinavian Music Group",
+    "Tegan and Sara",
+    "Crystal Castles",
+    "Vampire Weekend",
+    "Ryan Adams",
+    "Jenni Vartiainen",
+    "Placebo",
+    "The Clash",
+    "Pariisin Kevät",
+    "Sia",
+    "Kings of Leon",
+    "Yeah Yeah Yeahs",
+    "Uh Huh Her",
+    "Imogen Heap",
+    "CocoRosie",
+    "Mew",
+    "Akon",
+    "Arctic Monkeys",
+    "Amy Macdonald",
+    "Death Cab for Cutie",
+    "Chisu",
+    "t.A.T.u.",
+    "The xx",
+    "Coldplay",
+    "Bloc Party",
+    "Kings of Convenience",
+    "Regina",
+    "PMMP",
+    "Sigur Rós",
+    "Lady Gaga",
+    "Anna Puu",
+    "Cansei de Ser Sexy",
+    "Christina Aguilera",
+    "Katy Perry",
+    "Aerosmith",
+    "Regina Spektor",
+    "Avril Lavigne",
+    "Rilo Kiley",
+    "Anssi Kela",
+    "Sohodolls",
+    "Muse",
+    "Duffy",
+    "The Killers",
+    "The Kooks",
+    "Rihanna",
+    "Boys Like Girls",
+    "Red Hot Chili Peppers",
+  ],
+  Array [
+    "blink-182",
+    "Brand New",
+    "Red Hot Chili Peppers",
+    "Monsters of Folk",
+    "NOFX",
+    "MGMT",
+    "Death Cab for Cutie",
+    "Kid Cudi",
+    "Pink Floyd",
+    "Sublime",
+    "Bloc Party",
+    "Muse",
+    "Thrice",
+    "Gorillaz",
+    "Slightly Stoopid",
+    "A Skylit Drive",
+    "Lil' Wayne",
+    "Vampire Weekend",
+    "The Academy Is...",
+    "Sum 41",
+    "The Beatles",
+    "The Flaming Lips",
+    "KISS",
+    "Jamie T",
+    "Her Space Holiday",
+    "Hawk Nelson",
+    "Less Than Jake",
+    "Story of the Year",
+    "New Order",
+    "Paramore",
+    "Underoath",
+    "Pavement",
+    "Band of Horses",
+    "Foals",
+    "Bob Marley",
+    "Coheed and Cambria",
+    "The xx",
+    "Scary Kids Scaring Kids",
+    "Alkaline Trio",
+    "System of a Down",
+    "Animal Collective",
+    "The Killers",
+    "Fall Out Boy",
+    "Jimi Hendrix",
+    "The Expendables",
+    "Against Me!",
+    "Radiohead",
+    "Bad Religion",
+    "Kill Hannah",
+    "Yellowcard",
+  ],
+  Array [
+    "Alice Cooper",
+    "Fear Factory",
+    "Sybreed",
+    "The Cure",
+    "Mudvayne",
+    "Korn",
+    "King Diamond",
+    "Alien Ant Farm",
+    "Deftones",
+    "Megadeth",
+    "Symphony X",
+    "Serge Gainsbourg",
+    "Limp Bizkit",
+    "Cannibal Corpse",
+    "All Shall Perish",
+    "Deicide",
+    "Cypress Hill",
+    "Slipknot",
+    "Sepultura",
+    "Leng Tch'e",
+    "Metallica",
+    "Marilyn Manson",
+    "Iron Maiden",
+    "Job for a Cowboy",
+    "Slayer",
+    "blink-182",
+    "Cradle of Filth",
+    "Prong",
+    "Preschool Tea Party Massacre",
+    "The Prodigy",
+    "Incubus",
+    "Benighted",
+    "Eminem",
+    "Abigor",
+    "Foo Fighters",
+    "Bunker 84",
+    "Mötley Crüe",
+    "25 ta Life",
+    "Suprême NTM",
+    "Static-X",
+    "Ad Hominem",
+    "9ème Panzer Symphonie",
+    "Extol",
+    "Death",
+    "Nevermore",
+    "Mnemic",
+    "The Offspring",
+    "Textures",
+    "Muse",
+    "Ultra Vomit",
+  ],
+  Array [
+    "Mastodon",
+    "Led Zeppelin",
+    "Omar A. Rodriguez-Lopez",
+    "The Mars Volta",
+    "Metallica",
+    "Deftones",
+    "The Beatles",
+    "Meshuggah",
+    "The Raconteurs",
+    "The Dead Weather",
+    "Baroness",
+    "Nirvana",
+    "The Fall of Troy",
+    "Machine Head",
+    "The Stooges",
+    "Gojira",
+    "Pink Floyd",
+    "Megadeth",
+    "At the Drive-In",
+    "Hella",
+    "Red Hot Chili Peppers",
+    "Omar Rodriguez Lopez & John Frusciante",
+    "Van Halen",
+    "Muse",
+    "Venom",
+    "Opeth",
+    "Kyuss",
+    "Trivium",
+    "The Dillinger Escape Plan",
+    "Pearl Jam",
+    "The White Stripes",
+    "Tool",
+    "High on Fire",
+    "Exodus",
+    "Skeletonwitch",
+    "N.W.A",
+    "The Sword",
+    "Guns N' Roses",
+    "Down",
+    "Ove",
+    "Pig Destroyer",
+    "El Grupo Nuevo de Omar Rodriguez Lopez",
+    "U2",
+    "A Perfect Circle",
+    "Toxic Holocaust",
+    "MGMT",
+    "Motörhead",
+    "Death",
+    "Eagles of Death Metal",
+    "John Frusciante",
+  ],
+  Array [
+    "The Beatles",
+    "Radiohead",
+    "John Lennon",
+    "Pink Floyd",
+    "Röyksopp",
+    "Grateful Dead",
+    "Bear McCreary",
+    "Nirvana",
+    "AC/DC",
+    "Paul McCartney",
+    "Pearl Jam",
+    "Flogging Molly",
+    "George Carlin",
+    "Big & Rich",
+    "Beck",
+    "Blue Man Group",
+    "Green Day",
+    "Nick Drake",
+    "Soundgarden",
+    "Led Zeppelin",
+    "Garth Brooks",
+    "Sigur Rós",
+    "Thomas Newman",
+    "\\"Weird Al\\" Yankovic",
+    "Van Halen",
+    "Aerosmith",
+    "John Powell",
+    "Traveling Wilburys",
+    "Johnny Cash",
+    "Bill Engvall",
+    "Miles Davis",
+    "Coldplay",
+    "Frank Caliendo",
+    "Elliott Smith",
+    "Jeff Foxworthy",
+    "At the Drive-In",
+    "Bob Seger",
+    "Shaun of the Dead",
+    "Fleet Foxes",
+    "Ludwig van Beethoven",
+    "Gomez",
+    "John Denver",
+    "The Architects",
+    "Dave Matthews Band",
+    "The Black Keys",
+    "Pyotr Ilyich Tchaikovsky",
+    "Bob Dylan",
+    "Jim Croce",
+    "Electric Light Orchestra",
+    "Simon & Garfunkel",
+  ],
+  Array [
+    "Paramore",
+    "Dane Cook",
+    "Disturbed",
+    "Schoolyard Heroes",
+    "Flyleaf",
+    "Incubus",
+    "Skindred",
+    "Rise Against",
+    "Skillet",
+    "Arctic Monkeys",
+    "The Vincent Black Shadow",
+    "The Used",
+    "System of a Down",
+    "The Offspring",
+    "Tool",
+    "Ludacris",
+    "Brand New",
+    "Renfue",
+    "Infected Mushroom",
+    "Thousand Foot Krutch",
+    "Kittie",
+    "Fall Out Boy",
+    "Evanescence",
+    "The Smashing Pumpkins",
+    "Pepper",
+    "Dope",
+    "Nonpoint",
+    "Corrosion of Conformity",
+    "Zealous1",
+    "Led Zeppelin",
+    "Porcelain and the Tramps",
+    "Godsmack",
+    "Mudvayne",
+    "Saliva",
+    "Holding on to Sound",
+    "Seether",
+    "AFI",
+    "Chevelle",
+    "Streetlight Manifesto",
+    "Metric",
+    "The Prodigy",
+    "Korn",
+    "Lostprophets",
+    "Panic! At the Disco",
+    "Powerman 5000",
+    "Dance Gavin Dance",
+    "Egypt Central",
+    "Rammstein",
+    "YTCracker",
+    "Metallica",
+  ],
+  Array [
+    "The Residents",
+    "Krzysztof Komeda",
+    "Air",
+    "Stereolab",
+    "Monade",
+    "Portishead",
+    "Koop",
+    "The Black Keys",
+    "Paté de Fuá",
+    "Sun Ra",
+    "Bonobo",
+    "Apostle of Hustle",
+    "Pink Floyd",
+    "Slava Tsukerman",
+    "Charles Bronson",
+    "Yusef Lateef",
+    "Messer Chups",
+    "Egg",
+    "Snakefinger",
+    "Klinik",
+    "Radiohead",
+    "Novi Singers",
+    "White Noise",
+    "DJ Krush",
+    "Tom Waits",
+    "Cranes",
+    "The High Llamas",
+    "Nurse With Wound",
+    "Blur",
+    "Skylab",
+    "Alphataurus",
+    "Alissid Jazz",
+    "Funki Porcini",
+    "Wagon Christ",
+    "The Legendary Pink Dots",
+    "Tuxedomoon",
+    "DJ Krush & Toshinori Kondo",
+    "Los Dorados",
+    "David Vorhaus",
+    "Traffic",
+    "Xiu Xiu",
+    "Colonel Claypool's Bucket of Bernie Brains",
+    "Eyesore (Various)",
+    "Explosions in the Sky",
+    "13th Floor Elevators",
+    "Jethro Tull",
+    "Torturing Nurse",
+    "My Bloody Valentine",
+    "Cujo",
+    "Skalpel",
+  ],
+  Array [
+    "The Beatles",
+    "Arctic Monkeys",
+    "The Strokes",
+    "Oasis",
+    "The Last Shadow Puppets",
+    "Julian Casablancas",
+    "Radiohead",
+    "Los Hermanos",
+    "Kasabian",
+    "Led Zeppelin",
+    "Coldplay",
+    "The Killers",
+    "The White Stripes",
+    "George Harrison",
+    "Franz Ferdinand",
+    "Kaiser Chiefs",
+    "Pink Floyd",
+    "Elliott Smith",
+    "Gorillaz",
+    "Muse",
+    "The Who",
+    "Vampire Weekend",
+    "Phoenix",
+    "Daft Punk",
+    "Them Crooked Vultures",
+    "Keane",
+    "Nirvana",
+    "Jimi Hendrix",
+    "Pet Shop Boys",
+    "John Lennon",
+    "Interpol",
+    "The Rascals",
+    "Bat for Lashes",
+    "Renato Russo & Fernanda Takai",
+    "Beastie Boys",
+    "Blur",
+    "Beck",
+    "Bob Dylan",
+    "Supergrass",
+    "The Police",
+    "Stone Temple Pilots",
+    "Pearl Jam",
+    "Death Cab for Cutie",
+    "Paul McCartney & Wings",
+    "Barenaked Ladies",
+    "Os Mutantes",
+    "LCD Soundsystem",
+    "Justice",
+    "The Apples in Stereo",
+    "The Rakes",
+  ],
+  Array [
+    "浜崎あゆみ",
+    "Alanis Morissette",
+    "Christina Aguilera",
+    "宇多田ヒカル",
+    "Madonna",
+    "Britney Spears",
+    "Pink",
+    "鈴木あみ",
+    "Nightwish",
+    "Aural Vampire",
+    "Adam Lambert",
+    "Ladytron",
+    "Björk",
+    "Shakira",
+    "Kylie Minogue",
+    "Maki Goto feat. Sweet Black",
+    "Mariah Carey",
+    "Within Temptation",
+    "M.I.A.",
+    "t.A.T.u.",
+    "BoA",
+    "安室奈美恵",
+    "Kelly Clarkson",
+    "Delain",
+    "Tarja",
+    "倖田來未",
+    "Sophie Ellis-Bextor",
+    "BIG BANG",
+    "Miley Cyrus",
+    "Lady Gaga",
+    "After Forever",
+    "Fey",
+    "Ashlee Simpson",
+    "alan",
+    "Rihanna",
+    "Anathema",
+    "Avril Lavigne",
+    "Cyndi Lauper",
+    "Nelly Furtado",
+    "비",
+    "Paramore",
+    "Toni Braxton",
+    "Gwen Stefani",
+    "Epica",
+    "Big Bang 빅뱅",
+    "Janet Jackson",
+    "Armin van Buuren",
+    "Evanescence",
+    "Eluveitie",
+    "Nemesea",
+  ],
+  Array [
+    "Tool",
+    "Nine Inch Nails",
+    "Porcupine Tree",
+    "Chico Buarque",
+    "Dave Matthews Band",
+    "A Perfect Circle",
+    "Queens of the Stone Age",
+    "David Bowie",
+    "Muse",
+    "The Beatles",
+    "Led Zeppelin",
+    "Jeff Buckley",
+    "The Smashing Pumpkins",
+    "Björk",
+    "Dream Theater",
+    "Fantômas",
+    "Metallica",
+    "Faith No More",
+    "Tomahawk",
+    "Michael Jackson",
+    "Rush",
+    "The Mars Volta",
+    "Foo Fighters",
+    "Paul Gilbert",
+    "Peter Gabriel",
+    "Radiohead",
+    "Os Mutantes",
+    "Melvins",
+    "Genesis",
+    "Queen",
+    "Eddie Vedder",
+    "Legião Urbana",
+    "Alice in Chains",
+    "Pink Floyd",
+    "U2",
+    "Death",
+    "Mr. Bungle",
+    "Milton Nascimento",
+    "Pantera",
+    "The Police",
+    "Black Sabbath",
+    "Funk Como Le Gusta",
+    "Elton John",
+    "Pearl Jam",
+    "Opeth",
+    "Secos & Molhados",
+    "Incubus",
+    "Savatage",
+    "The Dillinger Escape Plan",
+    "Kate Bush",
+  ],
+  Array [
+    "Pendulum",
+    "Netsky",
+    "Deadmau5",
+    "The Qemists",
+    "Ronald Jenkees",
+    "Muse",
+    "Daft Punk",
+    "Infected Mushroom",
+    "Super Mash Bros.",
+    "Chase & Status",
+    "B-Complex",
+    "Tiësto",
+    "Vazelina Bilopphøggers",
+    "Celldweller",
+    "Mt Eden",
+    "Lady Gaga",
+    "Evol Intent",
+    "Blue Stahli",
+    "Prodigy",
+    "Sub Focus",
+    "Bon Jovi",
+    "Limp Bizkit",
+    "Lily Allen",
+    "Future Prophecies",
+    "Bruce Springsteen & The E Street Band",
+    "Calvin Harris",
+    "Skrillex",
+    "Miike Snow",
+    "Tyr",
+    "Bachelors Of Science",
+    "Eminem",
+    "Crazy Town",
+    "Mr B",
+    "SunStroke Project & Olia Tira",
+    "Röyksopp",
+    "Pitbull",
+    "Aquasky",
+    "Daddy DJ",
+    "Shakira",
+    "Sabaton",
+    "Hadouken!",
+    "Camo & Krooked",
+    "Korpiklaani",
+    "Dash Berlin",
+    "Machinae Supremacy",
+    "Kevin Rudolf",
+    "Jean Elan",
+    "Iron Maiden",
+    "The Chemical Brothers",
+    "London Elektricity",
+  ],
+  Array [
+    "Dissection",
+    "Howard Shore",
+    "Gorgoroth",
+    "Mayhem",
+    "Hypocrisy",
+    "Watain",
+    "Emperor",
+    "Bathory",
+    "Darkthrone",
+    "Sacramentum",
+    "Marduk",
+    "Mercyful Fate",
+    "Venom",
+    "Profanatica",
+    "Ajattara",
+    "Carpathian Forest",
+    "Catamenia",
+    "Nocte Obducta",
+    "Blind Guardian",
+    "Limbonic Art",
+    "Ophthalamia",
+    "Beastcraft",
+    "Nifelheim",
+    "Taake",
+    "Celtic Frost",
+    "1349",
+    "Behexen",
+    "Impaled Nazarene",
+    "Nokturnal Mortum",
+    "Absurd",
+    "Enslaved",
+    "Burzum",
+    "Immortal",
+    "Armagedda",
+    "Necrophobic",
+    "Moëvöt",
+    "Arktau Eos",
+    "Nachtfalke",
+    "Luror",
+    "Agalloch",
+    "Empyrium",
+    "Xasthur",
+    "Belphegor",
+    "Corpus Christii",
+    "Dark Funeral",
+    "Urgehal",
+    "Hetroertzen",
+    "Deathspell Omega",
+    "Slavland",
+    "Funeral Mist",
+  ],
+  Array [
+    "In Flames",
+    "Gotthard",
+    "Axel Rudi Pell",
+    "Dark the Suns",
+    "Nocturnal Rites",
+    "Eluveitie",
+    "Nightwish",
+    "Katatonia",
+    "Moonspell",
+    "Saturnus",
+    "Amorphis",
+    "Graveworm",
+    "Eternal Tears of Sorrow",
+    "Catamenia",
+    "Sentenced",
+    "Dark Tranquillity",
+    "Scorpions",
+    "Killswitch Engage",
+    "Black Label Society",
+    "Beseech",
+    "Saliva",
+    "Insomnium",
+    "Coldplay",
+    "Sonic Syndicate",
+    "Placebo",
+    "Within Temptation",
+    "Sick Puppies",
+    "Lacuna Coil",
+    "Soilwork",
+    "Ozzy Osbourne",
+    "Agathodaimon",
+    "Agalloch",
+    "Cradle of Filth",
+    "To/Die/For",
+    "Great Metal Covers Vol03",
+    "Lake of Tears",
+    "Rotting Christ",
+    "Metallica",
+    "Buckethead",
+    "Avantasia",
+    "Nightrage",
+    "Travka",
+    "Red",
+    "Vita De Vie",
+    "Anathema",
+    "Evergrey",
+    "Flowing Tears",
+    "Sonata Arctica",
+    "HIM",
+    "Mortal Love",
+  ],
+  Array [
+    "AFI",
+    "The Academy Is...",
+    "Brand New",
+    "The Blood Brothers",
+    "Cursive",
+    "Underoath",
+    "Heavy Heavy Low Low",
+    "Incubus",
+    "Circa Survive",
+    "Andre 3000",
+    "Why?",
+    "C.Aarmé",
+    "Thursday",
+    "Boys Night Out",
+    "The Faint",
+    "Lil' Wayne",
+    "Nine Inch Nails",
+    "The Matches",
+    "N*E*R*D",
+    "Deftones",
+    "Norma Jean",
+    "Björk",
+    "Lupe Fiasco",
+    "Fear Before the March of Flames",
+    "Jaguar Love",
+    "The Mae Shi",
+    "Rapider Than Horsepower",
+    "The Almost",
+    "Say Anything",
+    "Chiodos",
+    "The Used",
+    "Gnarkill",
+    "Eminem",
+    "Anthony Green",
+    "The White Stripes",
+    "Converge",
+    "From First to Last",
+    "Gym Class Heroes",
+    "Hot Snakes",
+    "OutKast",
+    "Taking Back Sunday",
+    "My Chemical Romance",
+    "Garbage",
+    "MC Lars",
+    "Greeley Estates",
+    "iwrestledabearonce",
+    "Kanye West",
+    "High and Driving",
+    "The Sound of Animals Fighting",
+    "The Chariot",
+  ],
+  Array [
+    "Deep Purple",
+    "Van Halen",
+    "Motörhead",
+    "Black Drawing Chalks",
+    "Pato Fu",
+    "Rush",
+    "Sad Lovers and Giants",
+    "Alphaville",
+    "Led Zeppelin",
+    "a-ha",
+    "Def Leppard",
+    "Duran Duran",
+    "Paul Hardcastle",
+    "Faith No More",
+    "The Who",
+    "Black Sabbath",
+    "Extreme",
+    "Nina Hagen",
+    "Dokken",
+    "Devo",
+    "Frankie Goes to Hollywood",
+    "White Zombie",
+    "The Runaways",
+    "Ultravox",
+    "Bananarama",
+    "Q Lazzarus",
+    "Cetu Javu",
+    "Billy Idol",
+    "Jimi Hendrix",
+    "Muse",
+    "Big Country",
+    "Desireless",
+    "America",
+    "Simple Minds",
+    "Men Without Hats",
+    "The Allman Brothers Band",
+    "Harold Faltermeyer",
+    "Wendy Carlos",
+    "Danzig",
+    "Jesus Jones",
+    "The National",
+    "Dj Lobsterdust",
+  ],
+  Array [
+    "Bring Me The Horizon",
+    "Skillet",
+    "Straight Line Stitch",
+    "Kelly Clarkson",
+    "30 Seconds to Mars",
+    "Alesana",
+    "Three Days Grace",
+    "Linkin Park",
+    "Bullet for My Valentine",
+    "Pendulum",
+    "Snow Patrol",
+    "Deftones",
+    "Brand X Music",
+    "Breaking Benjamin",
+    "Fonzie",
+    "Glee Cast",
+    "Lostprophets",
+    "Evanescence",
+    "Enter Shikari",
+    "Arctic Monkeys",
+    "Joan Jett and the Blackhearts",
+    "Paramore",
+    "The Black Ghosts",
+    "Red",
+    "Scars on Broadway",
+    "Muse",
+    "Apocalyptica",
+    "3 Doors Down",
+    "All That Remains",
+    "Death Cab for Cutie",
+    "Radiohead",
+    "+44",
+    "Within Temptation",
+    "Dakota Fanning and Kristen Stewart",
+    "Carter Burwell",
+    "Cetra",
+    "Story of the Year",
+    "Incubus",
+    "E.S. Posthumus",
+    "Nirvana",
+    "Metallica",
+    "The Agonist",
+    "Matchbook Romance",
+    "Prime Circle",
+    "Seether (Feat. Amy Lee)",
+    "Dead by Sunrise",
+    "MGMT",
+    "Portishead",
+    "Danny Elfman",
+    "Nickelback",
+  ],
+  Array [
+    "Beck",
+    "The Shins",
+    "Sonic Youth",
+    "Olivier Messiaen",
+    "Arnold Schönberg",
+    "György Ligeti",
+    "Spoon",
+    "Morton Feldman",
+    "Modest Mouse",
+    "Pierre Boulez",
+    "Pavement",
+    "Anton Webern",
+    "Karlheinz Stockhausen",
+    "Iannis Xenakis",
+    "Radiohead",
+    "Johann Sebastian Bach",
+    "Luciano Berio",
+    "Blur",
+    "John Cage",
+    "The Flaming Lips",
+    "Giacinto Scelsi",
+    "The Decemberists",
+    "Alban Berg",
+    "Carlo Gesualdo",
+    "Jean-Baptiste Lully",
+    "Band of Horses",
+    "The Strokes",
+    "Yo La Tengo",
+    "The National",
+    "CAKE",
+    "William Byrd",
+    "Franz Ferdinand",
+    "Béla Bartók",
+    "Cold War Kids",
+    "Thomas Tallis",
+    "Claudio Monteverdi",
+    "Weezer",
+    "Alfred Schnittke",
+    "Gorillaz",
+    "Henry Purcell",
+    "Pixies",
+    "John Adams",
+    "Death Cab for Cutie",
+    "Dinosaur Jr.",
+    "Guillaume de Machaut",
+    "Franz Joseph Haydn",
+    "Guillaume Dufay",
+    "Edgard Varèse",
+    "My Bloody Valentine",
+    "Built to Spill",
+  ],
+  Array [
+    "Porcupine Tree",
+    "King Crimson",
+    "Opeth",
+    "Mastodon",
+    "Genesis",
+    "Van der Graaf Generator",
+    "Nine Inch Nails",
+    "Agalloch",
+    "Katatonia",
+    "Abigail's Ghost",
+    "Cult of Luna",
+    "Tool",
+    "Steven Wilson",
+    "Muse",
+    "譚盾",
+    "Camel",
+    "dälek",
+    "The Ocean",
+    "Red Sparowes",
+    "Ulver",
+    "Dream Theater",
+    "Radiohead",
+    "Ben Frost",
+    "Matt Elliott",
+    "Mono",
+    "Bloodbath",
+    "Guapo",
+    "Ikuinen Kaamos",
+    "Pink Floyd",
+    "Anekdoten",
+    "Edge of Sanity",
+    "Black Sabbath",
+    "Paatos",
+    "Devin Townsend Project",
+    "The Mars Volta",
+    "Akercocke",
+    "Drudkh",
+    "Novembers Doom",
+    "Peter Gabriel",
+    "Morbid Angel",
+    "Isis",
+    "OSI",
+    "Her Name is Calla",
+    "Nick Drake",
+    "Blackfield",
+    "Kayo Dot",
+    "Yes",
+    "The Cure",
+    "Tangerine Dream",
+    "Devin Townsend",
+  ],
+  Array [
+    "The Cure",
+    "The Smashing Pumpkins",
+    "My Chemical Romance",
+    "The Used",
+    "From First to Last",
+    "The Beatles",
+    "Underoath",
+    "Radiohead",
+    "The Horrors",
+    "Mindless Self Indulgence",
+    "Nirvana",
+    "Sex Pistols",
+    "Funeral For A Friend",
+    "Thursday",
+    "Fall Out Boy",
+    "Yann Tiersen",
+    "The Academy Is...",
+    "Arcade Fire",
+    "System of a Down",
+    "Michael Jackson",
+    "Kill Hannah",
+    "The Clash",
+    "Karen O and the Kids",
+    "Yeah Yeah Yeahs",
+    "Muse",
+    "Oasis",
+    "MGMT",
+    "30 Seconds to Mars",
+    "Kings of Leon",
+    "Franz Ferdinand",
+    "Panic! At the Disco",
+    "The Subways",
+    "The Red Jumpsuit Apparatus",
+    "The Killers",
+    "The Fratellis",
+    "AFI",
+    "Arctic Monkeys",
+    "AC/DC",
+    "Korn",
+    "Placebo",
+    "KISS",
+    "Clap Your Hands Say Yeah",
+    "Hawthorne Heights",
+    "Black Tide",
+    "Ramones",
+    "Kaiser Chiefs",
+    "David Bowie",
+    "Alice Cooper",
+    "Justice",
+    "The White Stripes",
+  ],
+  Array [
+    "Linkin Park",
+    "Nada Surf",
+    "Avril Lavigne",
+    "Paramore",
+    "Stereophonics",
+    "Muse",
+    "Mando Diao",
+    "The Sounds",
+    "The Subways",
+    "The Strokes",
+    "Incubus",
+    "blink-182",
+    "Razorlight",
+    "Maxïmo Park",
+    "30 Seconds to Mars",
+    "The Killers",
+    "The Hives",
+    "The Kooks",
+    "Johnossi",
+    "My Chemical Romance",
+    "Jimmy Eat World",
+    "Disco Ensemble",
+    "Robert Francis",
+    "Enter Shikari",
+    "Tomte",
+    "Lifehouse",
+    "Snow Patrol",
+    "The Used",
+    "Death Cab for Cutie",
+    "Paolo Nutini",
+    "Placebo",
+    "The Cinematics",
+    "Bloc Party",
+    "Yeah Yeah Yeahs",
+    "Sugarplum Fairy",
+    "Yellowcard",
+    "The Films",
+    "Dead by Sunrise",
+    "Kings of Leon",
+    "Hanson",
+    "Arctic Monkeys",
+    "Lily Allen",
+    "Pink",
+    "Rooney",
+    "Deichkind",
+    "Babyshambles",
+    "Ramones",
+    "Papa Roach",
+    "Bon Jovi",
+    "Elvis Presley",
+  ],
+  Array [
+    "Connor Shaw",
+  ],
+]
+`;
+
+exports[`getFinalResult 
+    should convert map of artist names and index of the list they each
+    appear in into the final result (a map where each key is a pair that
+    satisfies the requirement explained in assignment description).
+     1`] = `
+Map {
+  Set {
+    "Arctic Monkeys",
+    "Muse",
+  } => true,
+  Set {
+    "Incubus",
+    "Muse",
+  } => true,
+  Set {
+    "Led Zeppelin",
+    "Pink Floyd",
+  } => true,
+  Set {
+    "Led Zeppelin",
+    "The Beatles",
+  } => true,
+  Set {
+    "Muse",
+    "Arctic Monkeys",
+  } => true,
+  Set {
+    "Muse",
+    "Incubus",
+  } => true,
+  Set {
+    "Muse",
+    "Nirvana",
+  } => true,
+  Set {
+    "Muse",
+    "Pink Floyd",
+  } => true,
+  Set {
+    "Muse",
+    "Placebo",
+  } => true,
+  Set {
+    "Muse",
+    "Radiohead",
+  } => true,
+  Set {
+    "Muse",
+    "The Beatles",
+  } => true,
+  Set {
+    "Muse",
+    "The Killers",
+  } => true,
+  Set {
+    "Nirvana",
+    "Muse",
+  } => true,
+  Set {
+    "Nirvana",
+    "The Beatles",
+  } => true,
+  Set {
+    "Pink Floyd",
+    "Led Zeppelin",
+  } => true,
+  Set {
+    "Pink Floyd",
+    "Muse",
+  } => true,
+  Set {
+    "Pink Floyd",
+    "Radiohead",
+  } => true,
+  Set {
+    "Pink Floyd",
+    "The Beatles",
+  } => true,
+  Set {
+    "Placebo",
+    "Muse",
+  } => true,
+  Set {
+    "Radiohead",
+    "Muse",
+  } => true,
+  Set {
+    "Radiohead",
+    "Pink Floyd",
+  } => true,
+  Set {
+    "Radiohead",
+    "The Beatles",
+  } => true,
+  Set {
+    "The Beatles",
+    "Led Zeppelin",
+  } => true,
+  Set {
+    "The Beatles",
+    "Muse",
+  } => true,
+  Set {
+    "The Beatles",
+    "Nirvana",
+  } => true,
+  Set {
+    "The Beatles",
+    "Pink Floyd",
+  } => true,
+  Set {
+    "The Beatles",
+    "Radiohead",
+  } => true,
+  Set {
+    "The Killers",
+    "Muse",
+  } => true,
+}
+`;
+
+exports[`processArtistsString 
+    should convert a string containing artist lists into csv-formatted
+    string containing the final result
+     1`] = `
+"Radiohead,The Beatles
+Radiohead,Muse
+Radiohead,Pink Floyd
+The Beatles,Radiohead
+The Beatles,Muse
+The Beatles,Led Zeppelin
+The Beatles,Nirvana
+The Beatles,Pink Floyd
+Incubus,Muse
+Muse,Radiohead
+Muse,The Beatles
+Muse,Incubus
+Muse,Placebo
+Muse,Nirvana
+Muse,Pink Floyd
+Muse,Arctic Monkeys
+Muse,The Killers
+Placebo,Muse
+Led Zeppelin,The Beatles
+Led Zeppelin,Pink Floyd
+Nirvana,The Beatles
+Nirvana,Muse
+Pink Floyd,Radiohead
+Pink Floyd,The Beatles
+Pink Floyd,Muse
+Pink Floyd,Led Zeppelin
+Arctic Monkeys,Muse
+The Killers,Muse
+"
+`;
