@@ -14,7 +14,7 @@ const getArtistCountsResult = require('./mocks/getArtistCountsResult')
 const logMemoryUsage = (label) => {
     const used = process.memoryUsage();
 
-    var logString = ':'
+    let logString = ':'
     
     for (let key in used) {
         logString += `\n${key}: ${Math.round(used[key] / 1024 / 1024 * 100) / 100} MB`
@@ -39,6 +39,7 @@ describe('getArtistLists', () => {
     should convert string containing artist lists into a 2D array.
     `, async () => {
         const artistsString = await readArtistsString('/Artist_lists_short.txt')
+
         logPerf(
             () => expect(getArtistLists(artistsString)).toMatchSnapshot(),
             expect.getState().currentTestName
