@@ -10,7 +10,6 @@ const {
 const getArtistListsResult = require('./mocks/getArtistListsResult')
 const getArtistCountsResult = require('./mocks/getArtistCountsResult')
 
-// printMemory copied from https://www.valentinog.com/blog/node-usage/
 const logMemoryUsage = (label) => {
     const used = process.memoryUsage();
 
