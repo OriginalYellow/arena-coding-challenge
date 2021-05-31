@@ -30,17 +30,17 @@ const getArtistCounts = artistLists => {
     return artistCounts;
 } 
 
+// NOTE: filterArtistCounts will remove artists from the artist counts if they do not appear in at least as many list as the minimum count, greatly increasing the average time it takes the program to run once. This is because the number of comparisons is limited by the number of artists (a) to the second power (a^2), so reducing the number of artists will have a especially dramatic effect on performance.
+const filterArtistCounts = minCount => R.mapObjIndexed(
+    (x, i) => {
+        if (x.length >= minCount) {
+            filteredArtistCounts[i] = x;
+        }
+    }
+)
+
 const getFinalResult = minCount => artistCounts => {
-    // filtering the artist counts first is an optimization:
-    const filteredArtistCounts = {};
-    R.mapObjIndexed(
-        (x, i) => {
-            if (x.length >= minCount) {
-                filteredArtistCounts[i] = x;
-            }
-        },
-        artistCounts
-    )
+    const filteredArtistCounts = filterArtistCounts(artistCounts)
     
     const result = new Map()
 
