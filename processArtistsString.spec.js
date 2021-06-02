@@ -35,7 +35,8 @@ const logPerf = (func, label) => {
 
 describe('getArtistLists', () => {
     test(`
-    should convert string containing artist lists into a 2D array.
+    should convert csv-formatted string containing artist lists into a 
+    2D array.
     `, async () => {
         const artistsString = await readArtistsString('/Artist_lists_short.txt')
 
